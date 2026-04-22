@@ -1,0 +1,1001 @@
+﻿id,first_name,last_name,Gender,Country,Institute,Department,Qualification,Year,Quarter,Status,Reason,Cohort,CohortKey,Fees,Other Charges,Expenditures
+1,Fanny,Milstead,Male,Singapore,smu,science,Phd.,2008,Q3,Withdrawn,homesick,Sept intake,1,1770,1039,280
+2,Tannie,Konzelmann,Male,Singapore,smu,arts,Bachelor,2010,Q1,Withdrawn,homesick,March Intake,2,4583,1830,486
+3,Gradeigh,Pyford,Female,Singapore,smu,engineering,Bachelor,1992,Q1,Active,NA,Sept intake,1,2357,1637,394
+4,Lorne,Josefsson,Male,Singapore,smu,engineering,Bachelor,2011,Q4,Active,NA,Sept intake,1,3377,1213,210
+5,Reinaldos,Koppe,Male,Singapore,smu,engineering,Bachelor,1994,Q2,Withdrawn,homesick,June Intake,3,2373,1757,397
+6,Gan,Itschakov,Male,Singapore,smu,engineering,Bachelor,2009,Q2,Withdrawn,homesick,Sept intake,1,1822,1760,267
+7,Flossie,Bearman,Male,Singapore,smu,science,Bachelor,1998,Q4,Active,NA,March Intake,2,2195,741,450
+8,Bo,Capron,Female,Singapore,smu,science,Bachelor,2010,Q4,Withdrawn,homesick,June Intake,3,1343,1101,268
+9,Sheilah,Domney,Male,Singapore,smu,science,Bachelor,2001,Q1,Active,NA,Sept intake,1,2078,739,362
+10,Pietro,Brigman,Male,Singapore,smu,arts,Bachelor,1991,Q4,Active,NA,June Intake,3,2447,757,436
+11,Catharina,Sharkey,Female,Singapore,smu,science,Bachelor,2013,Q3,Active,NA,June Intake,3,2185,1851,488
+12,Clay,Jeschner,Female,Singapore,smu,arts,Bachelor,2000,Q4,Active,NA,Sept intake,1,4233,1960,412
+13,Clarabelle,Jansens,Male,Singapore,smu,engineering,Bachelor,2014,Q4,Active,NA,June Intake,3,2576,808,464
+14,Eddy,Baake,Male,Singapore,smu,engineering,Bachelor,1992,Q4,Active,NA,March Intake,2,2462,551,390
+15,Jemie,Hundell,Female,Singapore,smu,engineering,Bachelor,2005,Q4,Withdrawn,homesick,June Intake,3,3245,1064,307
+16,Una,Cordeau],Male,Singapore,smu,arts,Bachelor,1993,Q1,Withdrawn,homesick,March Intake,2,4457,1774,385
+17,Otes,Sima,Female,Singapore,smu,arts,Phd.,2009,Q2,Withdrawn,homesick,June Intake,3,3925,1776,337
+18,Pansy,Parcells,Female,Singapore,smu,engineering,Bachelor,1995,Q4,Active,NA,March Intake,2,4458,1550,462
+19,Carole,Keogh,Female,Singapore,smu,arts,Bachelor,2010,Q4,Active,NA,Sept intake,1,3990,508,416
+20,Marlie,Brettle,Male,Singapore,smu,arts,Phd.,2001,Q1,Active,NA,June Intake,3,2470,1797,416
+21,Weidar,McCarrell,Male,Singapore,smu,science,Degree,2005,Q3,Withdrawn,homesick,June Intake,3,1097,1688,315
+22,Ruperto,Pyer,Male,Singapore,smu,engineering,Degree,2006,Q3,Active,NA,March Intake,2,1971,1661,366
+23,Thomasina,Dumphries,Male,Singapore,smu,science,Degree,2014,Q4,Active,NA,Sept intake,1,2488,1831,466
+24,Courtnay,Jiruch,Male,Singapore,smu,engineering,Phd.,2004,Q3,Active,NA,June Intake,3,4925,1605,277
+25,Adolf,Cooke,Female,Singapore,smu,engineering,Degree,2001,Q3,Active,NA,June Intake,3,3067,599,392
+26,Lora,Boij,Female,Singapore,smu,arts,Bachelor,1997,Q4,Withdrawn,Expensive,Sept intake,1,1824,1894,207
+27,Leela,Feechum,Male,Singapore,ntu,science,Degree,2016,Q4,Active,NA,Sept intake,1,4246,1015,323
+28,Nalani,Kording,Male,Singapore,nus,engineering,Bachelor,1995,Q4,Active,NA,June Intake,3,4035,628,383
+29,Jeremy,Brockway,Male,Singapore,ntu,arts,Bachelor,1998,Q2,Withdrawn,Academically unprepared,June Intake,3,3774,807,438
+30,Percival,Kilford,Female,Singapore,ntu,engineering,Phd.,2020,Q4,Active,NA,Sept intake,1,4367,1065,216
+31,Meredith,Harbottle,Male,Singapore,smu,engineering,Bachelor,2001,Q1,Withdrawn,homesick,March Intake,2,1279,1942,267
+32,Kaspar,Bohey,Male,Singapore,smu,science,Phd.,2016,Q4,Withdrawn,homesick,Sept intake,1,3600,968,233
+33,Sergeant,Guys,Male,Singapore,nus,engineering,Bachelor,1996,Q3,Active,NA,Sept intake,1,1464,798,421
+34,Yelena,Lund,Male,Singapore,nus,arts,Degree,2010,Q4,Active,NA,Sept intake,1,2177,1568,469
+35,Mame,Thorsby,Male,Singapore,smu,engineering,Bachelor,2009,Q4,Withdrawn,Expensive,Sept intake,1,2029,1984,317
+36,Rafferty,Fermoy,Female,Singapore,ntu,engineering,Phd.,2004,Q4,Active,NA,Sept intake,1,2001,1980,451
+37,Petra,Paxton,Female,Singapore,ntu,arts,Degree,2009,Q4,Withdrawn,Academically unprepared,June Intake,3,4108,1813,280
+38,Evie,Pigram,Female,Singapore,smu,science,Degree,2007,Q4,Active,NA,Sept intake,1,4135,1975,209
+39,Robina,Fallows,Male,Singapore,smu,engineering,Degree,1993,Q3,Active,NA,June Intake,3,3202,601,351
+40,Charmine,Loutheane,Female,Singapore,smu,science,Phd.,2012,Q3,Withdrawn,homesick,March Intake,2,2555,1485,349
+41,Edin,Slinn,Male,Singapore,nus,science,Phd.,2015,Q4,Active,NA,June Intake,3,4571,1102,396
+42,Abbye,Battisson,Female,Singapore,smu,science,Phd.,2005,Q4,Withdrawn,homesick,Sept intake,1,1713,861,341
+43,Kettie,Loft,Female,Singapore,ntu,arts,Degree,1998,Q4,Withdrawn,homesick,Sept intake,1,1920,1984,490
+44,Wolfgang,Rodenburgh,Female,Singapore,ntu,arts,Degree,1999,Q4,Active,NA,Sept intake,1,4176,1521,329
+45,Cloe,Tann,Female,Singapore,smu,arts,Phd.,2016,Q4,Active,NA,March Intake,2,2229,1334,488
+46,Tait,Bright,Male,Singapore,nus,science,Degree,2005,Q2,Active,NA,Sept intake,1,4944,1354,298
+47,Merralee,Jinks,Female,Singapore,smu,engineering,Phd.,1994,Q3,Withdrawn,homesick,June Intake,3,3290,921,286
+48,Lenna,Ferrara,Female,Singapore,smu,engineering,Phd.,1991,Q3,Active,NA,March Intake,2,1596,1908,412
+49,Dix,Senechault,Male,Singapore,smu,science,Degree,2019,Q4,Withdrawn,homesick,June Intake,3,1834,1537,292
+50,Janela,Petrussi,Female,Singapore,ntu,engineering,Phd.,1999,Q3,Active,NA,Sept intake,1,4100,1166,308
+51,Maddy,Allchorne,Female,Singapore,smu,science,Bachelor,1994,Q2,Withdrawn,homesick,Sept intake,1,1802,1095,396
+52,Brander,Oertzen,Male,Singapore,ntu,engineering,Phd.,2003,Q4,Active,NA,Sept intake,1,1262,1122,361
+53,Carlene,McGeady,Female,Singapore,smu,arts,Phd.,1992,Q4,Withdrawn,homesick,March Intake,2,1218,1681,316
+54,Leonora,Gliddon,Male,Singapore,nus,engineering,Phd.,1999,Q4,Active,NA,March Intake,2,2697,898,486
+55,Itch,Itzkowicz,Male,Singapore,smu,science,Bachelor,2015,Q4,Withdrawn,Academically unprepared,Sept intake,1,4472,1812,218
+56,Virginia,Holburn,Female,Singapore,ntu,arts,Phd.,2010,Q2,Active,NA,June Intake,3,3734,1893,315
+57,Birgit,Ivashinnikov,Male,Singapore,ntu,science,Phd.,2016,Q2,Active,NA,March Intake,2,1452,935,402
+58,Ralph,Fosdyke,Female,Singapore,nus,engineering,Phd.,1999,Q3,Withdrawn,homesick,Sept intake,1,1693,1833,318
+59,Deena,Vakhrushev,Female,Singapore,smu,engineering,Degree,2018,Q2,Withdrawn,Expensive,March Intake,2,4504,1900,313
+60,Robbyn,Boyne,Male,Singapore,ntu,science,Phd.,1999,Q2,Active,NA,Sept intake,1,2330,1975,284
+61,Stanly,Ouchterlony,Male,Singapore,ntu,science,Degree,2016,Q4,Active,NA,June Intake,3,4348,984,281
+62,Giovanna,Danks,Female,Singapore,smu,arts,Phd.,2000,Q3,Withdrawn,Academically unprepared,Sept intake,1,1963,1946,261
+63,Giralda,Tunsley,Female,Singapore,ntu,science,Degree,1990,Q2,Active,NA,Sept intake,1,2908,1560,234
+64,Margaux,Anelay,Male,Singapore,smu,engineering,Phd.,1995,Q4,Active,NA,March Intake,2,4602,1499,488
+65,Cecilla,Cradey,Male,Singapore,nus,science,Degree,2013,Q4,Active,NA,March Intake,2,1717,1757,232
+66,Selena,Emblem,Male,Singapore,ntu,engineering,Phd.,2010,Q4,Active,NA,March Intake,2,1876,1342,403
+67,Bidget,Askie,Female,Singapore,smu,engineering,Phd.,1998,Q4,Active,NA,Sept intake,1,2488,1327,472
+68,Pasquale,Coade,Female,Singapore,ntu,engineering,Degree,2008,Q4,Withdrawn,homesick,Sept intake,1,4033,1056,394
+69,Joline,Morilla,Male,Singapore,nus,arts,Phd.,1994,Q2,Active,NA,Sept intake,1,1754,1029,494
+70,Danny,Scannell,Female,Singapore,smu,engineering,Bachelor,2019,Q4,Active,NA,March Intake,2,4068,889,437
+71,Carmela,Barlass,Female,Singapore,smu,science,Phd.,2003,Q4,Active,NA,June Intake,3,4883,953,310
+72,Guinevere,Cardenas,Male,Singapore,smu,engineering,Degree,2013,Q4,Withdrawn,Academically unprepared,Sept intake,1,1979,1544,477
+73,Haley,Danks,Male,Singapore,ntu,engineering,Phd.,2008,Q1,Active,NA,June Intake,3,4696,1488,242
+74,Grazia,Tenny,Female,Singapore,smu,arts,Phd.,1999,Q3,Active,NA,Sept intake,1,4880,1957,473
+75,Frederik,Tarpey,Male,Singapore,smu,engineering,Bachelor,1993,Q4,Active,NA,Sept intake,1,4087,1201,215
+76,Craggy,Maddocks,Male,Singapore,smu,science,Phd.,2016,Q4,Active,NA,Sept intake,1,4694,1333,280
+77,Kyla,MacConneely,Female,Singapore,smu,science,Bachelor,2012,Q4,Active,NA,Sept intake,1,3130,628,297
+78,Mikel,Measey,Female,Singapore,smu,arts,Bachelor,2016,Q3,Withdrawn,homesick,June Intake,3,2779,1934,219
+79,Daniella,Eloi,Female,Singapore,nus,arts,Phd.,2014,Q1,Withdrawn,homesick,Sept intake,1,3962,648,307
+80,Lionel,Roddy,Female,Singapore,smu,engineering,Phd.,2004,Q3,Active,NA,June Intake,3,1963,1261,325
+81,Ivory,Collisson,Female,Singapore,nus,science,Phd.,2008,Q1,Withdrawn,Expensive,Sept intake,1,4636,682,431
+82,Georg,Heifer,Female,Singapore,smu,arts,Bachelor,2009,Q2,Active,NA,Sept intake,1,3629,1338,294
+83,Averyl,Redhead,Male,Singapore,ntu,arts,Phd.,1999,Q4,Active,NA,June Intake,3,2567,1012,469
+84,Cassondra,Simionescu,Male,Singapore,nus,engineering,Phd.,2001,Q2,Active,NA,Sept intake,1,4430,1486,445
+85,Ellynn,Bellay,Female,Singapore,nus,science,Phd.,2020,Q4,Active,NA,Sept intake,1,1966,1416,300
+86,Filberte,Snazle,Male,Singapore,smu,engineering,Phd.,2018,Q4,Withdrawn,Academically unprepared,Sept intake,1,2300,1986,355
+87,Bethina,Ebbles,Male,Singapore,ntu,engineering,Phd.,1993,Q4,Withdrawn,homesick,March Intake,2,2945,824,286
+88,Shir,Gascoyen,Female,Singapore,ntu,arts,Phd.,2002,Q4,Active,NA,Sept intake,1,1355,1590,258
+89,Amelina,Gossipin,Female,Singapore,ntu,science,Phd.,1999,Q4,Active,NA,Sept intake,1,2178,1792,357
+90,Jodi,Mulvaney,Male,Singapore,smu,engineering,Phd.,2005,Q4,Withdrawn,homesick,June Intake,3,4036,1297,305
+91,Christopher,Sandever,Male,Singapore,nus,engineering,Phd.,2020,Q4,Active,NA,June Intake,3,2874,1634,282
+92,Sheryl,Braisted,Male,Singapore,ntu,engineering,Phd.,1998,Q3,Active,NA,March Intake,2,3895,848,452
+93,Guss,Alker,Female,Singapore,nus,engineering,Phd.,2008,Q4,Withdrawn,homesick,Sept intake,1,1550,1956,275
+94,Freda,Tamplin,Male,Singapore,smu,arts,Degree,2004,Q4,Active,NA,June Intake,3,2985,1788,391
+95,Essa,Leyband,Male,Singapore,smu,science,Degree,1992,Q4,Withdrawn,Expensive,Sept intake,1,4358,855,472
+96,Dallis,McCaughen,Male,Singapore,nus,science,Degree,2006,Q4,Active,NA,June Intake,3,4581,760,458
+97,Benjy,Purser,Male,Singapore,smu,engineering,Degree,2014,Q4,Withdrawn,Expensive,Sept intake,1,2600,1251,206
+98,Arman,Goodliffe,Male,Singapore,smu,engineering,Phd.,1995,Q4,Active,NA,March Intake,2,4234,1727,316
+99,Danita,Gruczka,Female,Singapore,ntu,arts,Phd.,2014,Q1,Withdrawn,homesick,March Intake,2,3456,955,435
+100,Liam,Baldin,Female,Singapore,ntu,science,Phd.,2013,Q3,Active,NA,June Intake,3,3353,1797,203
+101,Connie,Stubbington,Female,Singapore,nus,arts,Phd.,2006,Q3,Withdrawn,Academically unprepared,June Intake,3,1566,1199,353
+102,Zolly,Vink,Female,India,smu,science,Phd.,2017,Q2,Withdrawn,homesick,Sept intake,1,4935,540,232
+103,Sheena,Pasek,Female,India,smu,science,Phd.,1995,Q4,Withdrawn,Academically unprepared,June Intake,3,4505,1437,385
+104,Adan,Chastanet,Female,India,smu,engineering,Phd.,1996,Q4,Active,NA,June Intake,3,3472,1394,391
+105,Isacco,Phelan,Female,India,smu,science,Phd.,2002,Q4,Active,NA,March Intake,2,3834,659,362
+106,Shelli,Marlor,Male,India,smu,arts,Bachelor,2001,Q4,Withdrawn,homesick,Sept intake,1,3651,1024,447
+107,Franny,Chastagnier,Male,India,nus,science,Phd.,1990,Q3,Active,NA,June Intake,3,1867,778,301
+108,Bellina,Witten,Female,India,nus,science,Degree,2013,Q1,Withdrawn,Academically unprepared,June Intake,3,4372,655,341
+109,Ara,Boarleyson,Male,India,ntu,engineering,Phd.,1991,Q4,Withdrawn,Expensive,Sept intake,1,4103,813,315
+110,Raoul,Lowis,Male,India,smu,arts,Bachelor,1998,Q3,Withdrawn,homesick,June Intake,3,4712,914,396
+111,Vito,Petyankin,Male,India,smu,arts,Phd.,2003,Q3,Active,NA,Sept intake,1,3408,930,475
+112,Laurene,Gierok,Female,India,smu,science,Phd.,1998,Q2,Withdrawn,Academically unprepared,March Intake,2,2302,894,242
+113,Riobard,Fidler,Male,India,nus,science,Phd.,1991,Q3,Withdrawn,homesick,Sept intake,1,4449,1128,307
+114,Joanie,Acres,Female,India,smu,science,Degree,1990,Q1,Withdrawn,Academically unprepared,June Intake,3,2785,579,207
+115,Dalis,Garthshore,Female,India,smu,arts,Degree,1994,Q4,Active,NA,Sept intake,1,1085,1347,417
+116,Sergio,Devigne,Female,India,smu,arts,Degree,2020,Q4,Withdrawn,homesick,June Intake,3,1100,954,328
+117,Avigdor,Iley,Female,India,smu,engineering,Phd.,1990,Q3,Active,NA,June Intake,3,3002,1944,413
+118,Maxie,Pinxton,Female,India,nus,arts,Phd.,2010,Q1,Withdrawn,homesick,June Intake,3,2199,1590,309
+119,Cacilie,Kettridge,Female,India,nus,arts,Bachelor,2016,Q4,Withdrawn,homesick,March Intake,2,1751,1897,281
+120,Salaidh,Hodcroft,Female,India,ntu,engineering,Phd.,1991,Q4,Withdrawn,Expensive,June Intake,3,3258,779,262
+121,Marissa,Blakeley,Male,India,smu,engineering,Phd.,1998,Q4,Withdrawn,homesick,Sept intake,1,1233,1982,423
+122,Smith,Teresa,Male,India,smu,engineering,Bachelor,1991,Q3,Active,NA,Sept intake,1,4238,1463,489
+123,Daron,Farriar,Male,India,nus,engineering,Bachelor,2012,Q2,Active,NA,Sept intake,1,4753,1289,285
+124,Erich,Storrah,Male,India,ntu,engineering,Phd.,2005,Q4,Withdrawn,homesick,Sept intake,1,4413,1527,228
+125,Shamus,Mifflin,Male,India,ntu,arts,Phd.,2019,Q4,Active,NA,March Intake,2,1402,1077,297
+126,Lyell,Rumin,Female,India,ntu,engineering,Bachelor,2020,Q1,Active,NA,Sept intake,1,1795,531,332
+127,Katharina,Bransdon,Female,India,smu,science,Degree,2019,Q4,Withdrawn,homesick,Sept intake,1,4959,1286,388
+128,Etty,Blackey,Male,India,smu,engineering,Phd.,2017,Q3,Active,NA,Sept intake,1,1808,662,313
+129,Raimondo,Vernham,Male,India,smu,engineering,Degree,1997,Q2,Active,NA,Sept intake,1,2620,1493,325
+130,Rodi,Files,Male,India,smu,arts,Degree,2010,Q4,Active,NA,Sept intake,1,4071,901,500
+131,Nathalie,Buglar,Male,India,smu,engineering,Degree,2001,Q4,Active,NA,Sept intake,1,3403,624,476
+132,Meier,Tremontana,Female,India,nus,arts,Bachelor,1992,Q4,Active,NA,March Intake,2,2555,1600,321
+133,Kort,Kasbye,Male,India,smu,arts,Phd.,2020,Q4,Active,NA,Sept intake,1,1329,1888,228
+134,Annadiane,Cossem,Female,India,smu,arts,Phd.,1991,Q4,Withdrawn,homesick,Sept intake,1,4956,922,277
+135,Grace,Rosgen,Male,India,nus,engineering,Degree,2010,Q4,Withdrawn,homesick,Sept intake,1,3006,699,379
+136,Dene,Mager,Female,India,ntu,engineering,Phd.,1993,Q4,Active,NA,March Intake,2,2402,1291,367
+137,Maisey,Garz,Female,India,nus,engineering,Bachelor,2001,Q4,Withdrawn,Expensive,Sept intake,1,4685,862,479
+138,Spence,Renison,Male,India,ntu,engineering,Degree,1998,Q1,Active,NA,June Intake,3,1421,1371,232
+139,Dennison,Morteo,Male,India,smu,arts,Bachelor,2007,Q4,Active,NA,Sept intake,1,4838,1598,393
+140,Annmaria,Carvilla,Female,India,nus,engineering,Phd.,2001,Q2,Withdrawn,homesick,Sept intake,1,4364,934,389
+141,Anatole,Hessing,Male,India,ntu,engineering,Phd.,2001,Q1,Withdrawn,homesick,Sept intake,1,3978,1498,332
+142,Wallace,Wilgar,Male,India,ntu,engineering,Phd.,2012,Q3,Active,NA,March Intake,2,1147,686,332
+143,Gamaliel,Tither,Female,India,nus,science,Bachelor,2017,Q4,Active,NA,June Intake,3,3625,747,274
+144,Wye,Ketchell,Female,India,smu,engineering,Bachelor,2001,Q1,Withdrawn,Academically unprepared,Sept intake,1,1526,926,472
+145,Gale,Cready,Female,India,nus,arts,Degree,2006,Q4,Withdrawn,homesick,Sept intake,1,2896,782,296
+146,Marius,Eilhersen,Female,India,nus,arts,Phd.,1990,Q4,Active,NA,March Intake,2,1554,1792,409
+147,Linet,Cridge,Female,India,nus,engineering,Phd.,1992,Q4,Active,NA,March Intake,2,2664,1493,432
+148,Mandel,Wyatt,Male,India,nus,engineering,Phd.,2008,Q4,Withdrawn,homesick,Sept intake,1,2375,1158,499
+149,Toddie,Blumfield,Female,India,smu,arts,Phd.,1992,Q2,Withdrawn,homesick,June Intake,3,3666,1948,220
+150,Darb,Coultar,Female,India,smu,engineering,Degree,1995,Q4,Withdrawn,homesick,Sept intake,1,2365,1680,349
+151,Carleen,Bellefant,Female,India,nus,engineering,Bachelor,2000,Q4,Active,NA,March Intake,2,2390,1885,304
+152,Javier,Weekley,Male,India,smu,engineering,Bachelor,2006,Q1,Withdrawn,Academically unprepared,Sept intake,1,1465,1942,429
+153,Aurelia,Lutman,Female,India,smu,engineering,Phd.,2016,Q3,Active,NA,March Intake,2,1804,794,227
+154,Siobhan,McMeanma,Female,India,smu,engineering,Phd.,2006,Q3,Withdrawn,homesick,Sept intake,1,4186,1940,283
+155,Hillery,Duddan,Female,India,smu,arts,Degree,2018,Q4,Withdrawn,homesick,June Intake,3,2489,1714,238
+156,Drud,Lillecrap,Male,India,nus,science,Bachelor,2007,Q3,Withdrawn,homesick,March Intake,2,4934,1572,205
+157,Minne,Heild,Female,India,smu,engineering,Phd.,2010,Q2,Withdrawn,Academically unprepared,March Intake,2,4625,1624,351
+158,Larine,Tetlow,Female,India,smu,arts,Phd.,2000,Q4,Withdrawn,Academically unprepared,Sept intake,1,2329,1440,411
+159,Lyn,Azema,Female,India,ntu,arts,Phd.,2016,Q4,Withdrawn,Academically unprepared,Sept intake,1,3524,1585,312
+160,Hank,Petroulis,Male,India,smu,engineering,Phd.,1997,Q3,Withdrawn,homesick,June Intake,3,2218,1987,374
+161,Rowen,Gartan,Male,India,smu,science,Phd.,1996,Q3,Withdrawn,Academically unprepared,March Intake,2,1105,1168,267
+162,Ofella,Rowlstone,Male,India,smu,engineering,Degree,1996,Q1,Withdrawn,homesick,Sept intake,1,3252,1462,355
+163,Luciana,Owlner,Female,India,nus,science,Phd.,2012,Q1,Active,NA,Sept intake,1,3567,1741,238
+164,Terence,Bernaldo,Female,India,nus,engineering,Phd.,2000,Q4,Withdrawn,homesick,Sept intake,1,1151,1189,226
+165,Nannette,Maffin,Male,India,smu,engineering,Bachelor,2012,Q3,Active,NA,June Intake,3,3489,1117,294
+166,Judy,Rennix,Female,India,nus,science,Phd.,1996,Q4,Active,NA,Sept intake,1,1973,1072,408
+167,Maisey,De Filippi,Male,India,nus,engineering,Phd.,2005,Q3,Withdrawn,Expensive,Sept intake,1,2825,1277,225
+168,Sylvia,Slograve,Female,India,smu,engineering,Degree,1999,Q1,Withdrawn,Academically unprepared,Sept intake,1,1835,1155,373
+169,Marylynne,Adamiak,Female,India,smu,engineering,Bachelor,1998,Q3,Active,NA,Sept intake,1,2304,991,307
+170,Raquel,Bagby,Female,India,ntu,engineering,Bachelor,2017,Q4,Active,NA,Sept intake,1,3364,1350,349
+171,Adella,Ruttgers,Female,India,smu,engineering,Phd.,2005,Q3,Active,NA,Sept intake,1,3446,513,311
+172,Lynnell,Linsay,Male,India,smu,science,Phd.,2006,Q4,Withdrawn,Expensive,Sept intake,1,1310,1412,213
+173,Krystle,Joiris,Female,India,smu,arts,Bachelor,2007,Q4,Withdrawn,homesick,Sept intake,1,3415,623,365
+174,Stoddard,Millier,Male,India,nus,engineering,Phd.,1999,Q4,Withdrawn,homesick,Sept intake,1,3179,1781,442
+175,Damien,Persich,Male,India,smu,engineering,Bachelor,2017,Q4,Withdrawn,homesick,Sept intake,1,3799,727,341
+176,Neila,Amsberger,Female,India,smu,engineering,Bachelor,2019,Q3,Withdrawn,homesick,Sept intake,1,2055,551,292
+177,Waldemar,Craney,Male,India,smu,arts,Phd.,2016,Q2,Active,NA,June Intake,3,4028,1200,365
+178,Kamillah,Thaine,Male,India,smu,arts,Phd.,2017,Q4,Active,NA,Sept intake,1,2486,1268,232
+179,Klara,Seedhouse,Male,India,ntu,science,Phd.,2009,Q4,Withdrawn,Academically unprepared,March Intake,2,2292,1147,340
+180,Nanci,Ades,Female,India,smu,engineering,Degree,1996,Q4,Active,NA,June Intake,3,1440,1291,432
+181,Gav,Schwander,Male,India,ntu,science,Phd.,2013,Q4,Withdrawn,Expensive,March Intake,2,1084,1140,279
+182,Sammy,Apperley,Female,India,nus,arts,Bachelor,2014,Q2,Active,NA,Sept intake,1,1053,1031,434
+183,Briggs,Dikes,Female,India,nus,engineering,Phd.,1995,Q4,Withdrawn,homesick,Sept intake,1,2469,1859,215
+184,Cynde,Neely,Female,India,ntu,arts,Phd.,2001,Q3,Withdrawn,Academically unprepared,March Intake,2,1432,1824,333
+185,Paolina,Ballston,Female,India,smu,engineering,Bachelor,2012,Q3,Withdrawn,Academically unprepared,Sept intake,1,3085,1867,498
+186,Carleen,Boards,Female,India,smu,engineering,Phd.,1995,Q4,Withdrawn,Academically unprepared,June Intake,3,3682,1342,345
+187,Amble,Gilbank,Male,India,smu,engineering,Degree,2011,Q2,Active,NA,March Intake,2,2012,539,244
+188,Skip,Kordovani,Female,India,smu,engineering,Bachelor,1991,Q3,Withdrawn,homesick,Sept intake,1,1576,1519,396
+189,Mahala,Lorentz,Male,India,smu,arts,Bachelor,1992,Q4,Withdrawn,Expensive,June Intake,3,2195,916,264
+190,Alfie,Hosier,Female,India,ntu,arts,Phd.,1992,Q3,Withdrawn,Expensive,Sept intake,1,2476,594,458
+191,Leontine,Healey,Male,India,smu,engineering,Phd.,1993,Q4,Active,NA,June Intake,3,3795,1527,239
+192,Anabelle,Arnaud,Male,India,ntu,science,Phd.,1999,Q4,Withdrawn,Academically unprepared,Sept intake,1,3205,596,463
+193,Melicent,Jennins,Female,India,ntu,arts,Bachelor,2005,Q4,Withdrawn,homesick,June Intake,3,2160,1150,403
+194,Kathleen,Ewebank,Male,India,nus,science,Bachelor,2009,Q4,Withdrawn,homesick,March Intake,2,2665,1015,431
+195,Maribelle,Force,Male,India,smu,engineering,Phd.,1997,Q4,Active,NA,Sept intake,1,3515,621,372
+196,Zacherie,Segeswoeth,Female,India,ntu,arts,Phd.,2009,Q3,Withdrawn,homesick,June Intake,3,2589,1852,472
+197,Debra,Zollner,Female,India,ntu,engineering,Bachelor,1998,Q4,Active,NA,Sept intake,1,3711,1821,437
+198,Wallie,Gare,Female,India,ntu,science,Bachelor,2018,Q4,Withdrawn,Expensive,Sept intake,1,1619,1138,290
+199,Janet,Lomaz,Female,India,ntu,engineering,Phd.,2001,Q1,Active,NA,Sept intake,1,4856,1331,249
+200,Guillemette,Labin,Female,India,smu,engineering,Degree,2014,Q1,Withdrawn,homesick,June Intake,3,3201,1255,419
+201,Shae,O'Fallon,Male,India,nus,engineering,Bachelor,2018,Q3,Active,NA,June Intake,3,3874,861,210
+202,Rock,Vreede,Female,India,smu,science,Degree,2017,Q4,Withdrawn,homesick,Sept intake,1,2871,1525,305
+203,Arabele,Fernao,Female,India,nus,engineering,Phd.,2013,Q4,Withdrawn,homesick,Sept intake,1,2587,985,265
+204,Gearard,Pendle,Male,India,ntu,science,Phd.,2016,Q4,Active,NA,Sept intake,1,3414,1650,239
+205,Reube,Titlow,Female,India,nus,engineering,Degree,1997,Q3,Active,NA,March Intake,2,3697,1421,401
+206,Eugene,Lapre,Female,India,smu,engineering,Degree,1990,Q2,Withdrawn,Expensive,March Intake,2,1937,1868,383
+207,Gertrud,Broszkiewicz,Male,India,ntu,engineering,Phd.,2011,Q4,Active,NA,Sept intake,1,1562,1057,361
+208,Padraig,Mougel,Male,India,smu,arts,Phd.,2011,Q4,Active,NA,June Intake,3,1463,1986,266
+209,Tanya,Rielly,Female,India,smu,science,Phd.,2019,Q3,Withdrawn,homesick,Sept intake,1,4381,1719,494
+210,Salem,Jancic,Female,India,ntu,arts,Phd.,2012,Q4,Active,NA,March Intake,2,3077,1307,456
+211,Ganny,Ivanichev,Female,India,ntu,arts,Bachelor,2012,Q4,Active,NA,June Intake,3,3890,950,338
+212,Rochell,Leppard,Female,India,smu,arts,Phd.,2002,Q4,Withdrawn,homesick,Sept intake,1,3543,1477,369
+213,Merv,Burn,Male,India,smu,science,Bachelor,2011,Q1,Active,NA,March Intake,2,3159,1407,263
+214,Antony,Zeal,Female,India,smu,engineering,Bachelor,2012,Q3,Withdrawn,homesick,Sept intake,1,1822,1093,399
+215,Marika,Sallan,Male,India,smu,engineering,Degree,2005,Q2,Withdrawn,Academically unprepared,Sept intake,1,2461,725,484
+216,Liana,Wyett,Female,India,smu,science,Degree,2017,Q3,Withdrawn,homesick,June Intake,3,1599,1859,222
+217,Leighton,Kobpac,Male,India,smu,engineering,Phd.,2011,Q4,Withdrawn,Expensive,June Intake,3,4549,1872,405
+218,Hillary,Duny,Male,India,ntu,engineering,Phd.,2005,Q4,Withdrawn,Academically unprepared,Sept intake,1,1175,1296,487
+219,Emanuele,Maletratt,Female,India,ntu,engineering,Phd.,2010,Q3,Withdrawn,Expensive,Sept intake,1,4882,1372,373
+220,Dory,Hutten,Female,India,nus,science,Bachelor,1995,Q3,Withdrawn,homesick,Sept intake,1,2120,579,499
+221,Hall,Popelay,Female,India,ntu,science,Phd.,2013,Q2,Active,NA,March Intake,2,1741,674,306
+222,Fredric,Flounders,Female,India,nus,engineering,Phd.,1996,Q2,Active,NA,March Intake,2,4438,1401,268
+223,Florinda,Bursnall,Male,India,nus,science,Phd.,1994,Q1,Withdrawn,Expensive,Sept intake,1,2209,872,467
+224,Eddy,Marconi,Female,India,ntu,arts,Degree,2009,Q3,Active,NA,March Intake,2,4310,1648,302
+225,Farly,Domenici,Male,India,smu,engineering,Phd.,2001,Q4,Active,NA,June Intake,3,2836,1093,314
+226,Adi,Langham,Male,India,nus,science,Phd.,2011,Q4,Active,NA,June Intake,3,3381,1202,326
+227,Alexander,Duke,Male,India,ntu,arts,Degree,2001,Q4,Active,NA,Sept intake,1,3803,1218,433
+228,Marline,Hounihan,Female,India,ntu,science,Phd.,1994,Q4,Withdrawn,Expensive,Sept intake,1,3212,1519,225
+229,Callean,Brasseur,Female,India,nus,arts,Phd.,2016,Q1,Withdrawn,homesick,March Intake,2,3148,1841,253
+230,Rita,Loines,Female,India,smu,arts,Bachelor,2000,Q1,Active,NA,June Intake,3,1762,962,255
+231,Yancy,Foulgham,Male,India,ntu,engineering,Bachelor,2001,Q4,Withdrawn,homesick,March Intake,2,2215,1612,250
+232,Mycah,Gentle,Male,India,ntu,engineering,Degree,2004,Q1,Withdrawn,homesick,June Intake,3,4428,1034,418
+233,Iormina,Lamartine,Female,India,nus,arts,Phd.,2004,Q4,Withdrawn,Expensive,June Intake,3,4644,1091,312
+234,Harman,Castard,Male,India,smu,engineering,Bachelor,2004,Q4,Active,NA,Sept intake,1,3393,1173,303
+235,Sylvester,McGebenay,Male,India,smu,science,Phd.,1994,Q4,Active,NA,March Intake,2,4770,1712,295
+236,Meyer,Bridgland,Male,India,nus,engineering,Phd.,1998,Q1,Active,NA,Sept intake,1,4408,585,213
+237,Karlotta,McCrackem,Female,India,smu,science,Phd.,1997,Q4,Withdrawn,homesick,June Intake,3,2018,1219,292
+238,Rosemarie,Sincock,Male,India,ntu,science,Degree,1998,Q4,Active,NA,March Intake,2,3122,872,249
+239,Darb,Ruckledge,Female,India,ntu,science,Bachelor,1998,Q4,Active,NA,March Intake,2,3484,1549,437
+240,Maura,Lante,Female,India,nus,engineering,Bachelor,2011,Q2,Withdrawn,homesick,June Intake,3,3855,588,241
+241,Jenine,Flaunier,Female,India,smu,arts,Bachelor,1995,Q4,Withdrawn,homesick,Sept intake,1,4460,1379,420
+242,Bria,Parnaby,Female,India,smu,engineering,Degree,2015,Q4,Withdrawn,Expensive,Sept intake,1,2035,1253,297
+243,Cordy,Bettanay,Female,India,smu,science,Phd.,2001,Q3,Active,NA,Sept intake,1,3251,1688,379
+244,Lark,Mengue,Female,India,smu,engineering,Bachelor,2005,Q4,Withdrawn,homesick,Sept intake,1,4003,1532,248
+245,Gabrielle,Petre,Female,India,smu,engineering,Phd.,2015,Q4,Withdrawn,Academically unprepared,Sept intake,1,4815,1284,338
+246,Berty,Clayhill,Male,India,smu,science,Degree,2018,Q4,Active,NA,Sept intake,1,2787,1397,245
+247,Gabe,Antoni,Male,India,ntu,science,Degree,1992,Q2,Active,NA,March Intake,2,4160,726,403
+248,Anthony,Shields,Male,India,ntu,engineering,Phd.,2007,Q4,Withdrawn,homesick,March Intake,2,4221,877,450
+249,Roanne,Prinett,Female,India,smu,science,Phd.,2008,Q1,Withdrawn,homesick,Sept intake,1,3933,1429,225
+250,Cyrus,Kermott,Female,India,nus,engineering,Bachelor,2016,Q2,Withdrawn,Expensive,March Intake,2,3536,1328,311
+251,Adella,Couchman,Female,Singapore,nus,arts,Degree,2000,Q3,Withdrawn,homesick,March Intake,2,2944,668,223
+252,Gavan,Burel,Female,Singapore,smu,engineering,Phd.,2004,Q2,Active,NA,Sept intake,1,3221,1760,466
+253,Charil,Johansson,Female,Singapore,nus,engineering,Degree,2001,Q4,Active,NA,Sept intake,1,1424,865,243
+254,Netty,Caurah,Male,Singapore,nus,engineering,Phd.,2009,Q4,Active,NA,Sept intake,1,1810,1003,463
+255,Jo ann,Monelle,Female,Singapore,ntu,engineering,Degree,2003,Q4,Active,NA,Sept intake,1,3926,1928,406
+256,Junie,Surguine,Male,Singapore,ntu,arts,Bachelor,2002,Q4,Active,NA,Sept intake,1,2185,1237,331
+257,Jermayne,Udale,Female,Singapore,ntu,science,Degree,2017,Q3,Withdrawn,homesick,Sept intake,1,3734,571,367
+258,Alley,Lambricht,Female,Singapore,ntu,engineering,Phd.,1991,Q3,Withdrawn,Academically unprepared,June Intake,3,4137,1825,344
+259,Lionello,Dench,Male,Singapore,smu,science,Phd.,1991,Q4,Active,NA,Sept intake,1,1058,1241,227
+260,Mei,MacIlraith,Female,Singapore,ntu,engineering,Bachelor,1998,Q4,Active,NA,June Intake,3,4759,957,231
+261,Leila,Oliveras,Male,Singapore,nus,engineering,Degree,2006,Q4,Active,NA,March Intake,2,4928,627,387
+262,Josy,Francklyn,Male,Singapore,nus,engineering,Phd.,1998,Q2,Withdrawn,homesick,Sept intake,1,2188,951,229
+263,Travis,Pates,Female,Singapore,nus,science,Bachelor,2019,Q4,Withdrawn,homesick,Sept intake,1,1299,1752,443
+264,Cordey,Hamson,Female,Singapore,smu,arts,Phd.,1998,Q4,Withdrawn,Academically unprepared,Sept intake,1,1393,565,481
+265,Rodie,Bertram,Male,Singapore,ntu,science,Phd.,1996,Q4,Withdrawn,Expensive,Sept intake,1,1797,1891,398
+266,Kayne,Dansey,Male,Singapore,smu,engineering,Phd.,2003,Q3,Active,NA,Sept intake,1,1209,1131,271
+267,Hart,Hail,Female,Singapore,ntu,engineering,Bachelor,2004,Q3,Active,NA,Sept intake,1,3855,1734,422
+268,Kimbra,Breache,Female,Singapore,nus,engineering,Phd.,2000,Q4,Withdrawn,homesick,Sept intake,1,4927,1135,363
+269,Fairlie,Challenger,Female,Singapore,ntu,engineering,Bachelor,1990,Q4,Active,NA,Sept intake,1,4669,917,269
+270,Cynthy,Vezey,Male,Singapore,smu,science,Degree,2004,Q4,Withdrawn,Academically unprepared,Sept intake,1,3738,1219,299
+271,Philip,Bess,Male,Singapore,ntu,arts,Phd.,1995,Q3,Withdrawn,homesick,Sept intake,1,1808,1670,429
+272,Aeriel,Enrigo,Male,Singapore,ntu,engineering,Degree,2001,Q2,Withdrawn,homesick,Sept intake,1,3089,1356,410
+273,Marketa,Phant,Female,Singapore,smu,arts,Phd.,2008,Q3,Withdrawn,homesick,Sept intake,1,3199,1898,325
+274,Meghan,Sackur,Female,Singapore,smu,science,Phd.,2013,Q4,Active,NA,Sept intake,1,1753,1911,238
+275,Karissa,Le Galle,Female,Singapore,smu,arts,Phd.,2005,Q2,Active,NA,June Intake,3,4941,1539,500
+276,Amy,Crutchfield,Female,Singapore,smu,engineering,Phd.,2008,Q4,Active,NA,Sept intake,1,4593,1577,408
+277,Dulcia,Northbridge,Female,Singapore,smu,engineering,Phd.,2009,Q4,Active,NA,Sept intake,1,1141,714,426
+278,Jerry,Yesichev,Male,Singapore,smu,science,Phd.,2007,Q3,Active,NA,Sept intake,1,1393,513,365
+279,Leland,Whild,Male,Singapore,smu,engineering,Bachelor,2010,Q4,Withdrawn,Expensive,Sept intake,1,3080,1983,316
+280,Cybill,Thunder,Female,Singapore,smu,arts,Phd.,1996,Q2,Active,NA,Sept intake,1,4555,1658,235
+281,Mersey,Ettery,Male,Singapore,smu,engineering,Degree,1995,Q1,Withdrawn,homesick,June Intake,3,3172,1517,249
+282,Rorke,Packington,Male,Singapore,smu,arts,Phd.,1997,Q3,Active,NA,Sept intake,1,1567,1270,368
+283,Jillayne,Nanelli,Female,Singapore,nus,engineering,Phd.,2010,Q3,Withdrawn,Expensive,March Intake,2,3744,1823,243
+284,Leila,Muddicliffe,Female,Singapore,smu,engineering,Degree,1990,Q3,Active,NA,June Intake,3,3553,1356,288
+285,Doralyn,Risso,Male,Singapore,nus,engineering,Degree,2015,Q3,Active,NA,March Intake,2,1003,760,297
+286,Raoul,Greville,Female,Singapore,smu,arts,Phd.,2008,Q4,Active,NA,Sept intake,1,1393,752,244
+287,Reginald,Carty,Male,Singapore,nus,engineering,Phd.,1993,Q4,Withdrawn,Expensive,March Intake,2,3766,629,490
+288,Tobe,Lampert,Female,Singapore,ntu,engineering,Phd.,2003,Q4,Active,NA,March Intake,2,4454,1911,398
+289,Christian,Dutnall,Female,Singapore,smu,science,Phd.,2004,Q4,Active,NA,Sept intake,1,3126,849,396
+290,Sasha,Alves,Female,Singapore,smu,engineering,Degree,1997,Q4,Active,NA,Sept intake,1,1204,747,388
+291,Danica,Kirsopp,Female,Singapore,smu,engineering,Phd.,1990,Q2,Withdrawn,homesick,Sept intake,1,1036,567,340
+292,Alix,Fawdrie,Male,Singapore,smu,engineering,Degree,2015,Q4,Active,NA,Sept intake,1,3577,1730,264
+293,Miran,Bauer,Male,Singapore,nus,arts,Bachelor,2004,Q4,Active,NA,Sept intake,1,4845,1870,370
+294,Bert,Fulger,Female,Singapore,smu,science,Degree,2020,Q3,Withdrawn,homesick,Sept intake,1,1497,1459,471
+295,Garland,Janowski,Male,Singapore,nus,engineering,Degree,2016,Q3,Withdrawn,Expensive,Sept intake,1,2501,1389,337
+296,Vinny,Henriksson,Female,Singapore,ntu,engineering,Phd.,2008,Q1,Withdrawn,homesick,Sept intake,1,3837,1034,419
+297,Rodrick,Garrettson,Female,Singapore,ntu,science,Bachelor,2011,Q4,Withdrawn,Expensive,March Intake,2,4640,853,269
+298,Cara,Jopp,Female,Singapore,nus,engineering,Phd.,1996,Q3,Active,NA,Sept intake,1,1971,1193,283
+299,Bernie,Goodbur,Male,Singapore,smu,science,Phd.,2002,Q3,Active,NA,March Intake,2,2130,1915,478
+300,Raphael,Beyn,Female,Singapore,ntu,arts,Phd.,1991,Q4,Withdrawn,homesick,June Intake,3,1986,846,435
+301,Vale,Vaskin,Male,Singapore,smu,arts,Phd.,2016,Q3,Withdrawn,homesick,Sept intake,1,1440,1139,402
+302,Luce,Bellworthy,Female,Singapore,nus,engineering,Degree,2007,Q2,Active,NA,Sept intake,1,3072,1024,497
+303,Zonda,MacGaughey,Male,Singapore,nus,engineering,Phd.,2002,Q4,Active,NA,March Intake,2,3473,1000,245
+304,Corey,Foulds,Male,Singapore,smu,engineering,Phd.,2009,Q1,Withdrawn,homesick,March Intake,2,3546,994,205
+305,Cassaundra,Pimme,Male,Singapore,nus,arts,Phd.,2011,Q4,Active,NA,March Intake,2,4257,873,241
+306,Brant,Carletto,Female,Singapore,smu,engineering,Phd.,2017,Q2,Withdrawn,homesick,June Intake,3,2731,731,235
+307,Hermia,Illes,Female,Singapore,smu,engineering,Phd.,1995,Q4,Withdrawn,Academically unprepared,Sept intake,1,1588,971,220
+308,Jesse,Hayen,Male,Singapore,smu,arts,Degree,2009,Q1,Withdrawn,homesick,June Intake,3,1826,1096,363
+309,Shepard,Enga,Female,Singapore,nus,arts,Phd.,2009,Q3,Withdrawn,homesick,June Intake,3,4955,1614,217
+310,Ardyce,Battram,Male,Singapore,smu,engineering,Degree,1998,Q1,Withdrawn,homesick,March Intake,2,4056,1882,495
+311,Isahella,Arkle,Male,Singapore,nus,engineering,Phd.,2000,Q3,Withdrawn,homesick,June Intake,3,1872,655,350
+312,Averil,Minear,Male,Singapore,nus,engineering,Phd.,1998,Q4,Withdrawn,homesick,Sept intake,1,2651,1501,425
+313,Guy,Stubley,Female,Singapore,smu,arts,Phd.,2018,Q2,Withdrawn,homesick,Sept intake,1,3511,542,251
+314,Lari,Mulholland,Male,Singapore,ntu,engineering,Degree,2012,Q1,Active,NA,Sept intake,1,2666,1951,478
+315,Abey,Skipton,Male,Singapore,smu,engineering,Bachelor,2000,Q4,Withdrawn,Expensive,Sept intake,1,2023,1440,276
+316,Claudetta,Anwyl,Female,Singapore,ntu,engineering,Degree,2016,Q4,Active,NA,Sept intake,1,1552,1161,454
+317,Gayelord,Moorman,Male,Singapore,smu,engineering,Phd.,2006,Q1,Withdrawn,homesick,Sept intake,1,2840,1333,490
+318,Marilin,Petrolli,Male,Singapore,smu,engineering,Degree,2019,Q4,Active,NA,Sept intake,1,2684,1763,218
+319,Worthy,Mongin,Female,Singapore,ntu,engineering,Phd.,2003,Q3,Active,NA,March Intake,2,3574,1375,378
+320,Suzette,Yarnley,Male,Singapore,ntu,science,Phd.,1990,Q4,Active,NA,March Intake,2,4261,1893,364
+321,Hunfredo,Davidsson,Female,Singapore,smu,engineering,Bachelor,2014,Q4,Withdrawn,homesick,March Intake,2,3797,1709,389
+322,Arlin,Giddens,Female,Singapore,smu,arts,Phd.,2014,Q4,Withdrawn,homesick,Sept intake,1,3026,1007,230
+323,Natassia,Perceval,Male,Singapore,smu,arts,Degree,1995,Q4,Withdrawn,Expensive,Sept intake,1,4525,1132,236
+324,Annabal,Kane,Male,Singapore,smu,engineering,Degree,1994,Q3,Active,NA,Sept intake,1,3927,1484,368
+325,Maxy,Concklin,Male,Singapore,nus,arts,Phd.,1998,Q3,Withdrawn,homesick,Sept intake,1,1754,1359,405
+326,Adrea,Gypps,Female,Singapore,nus,science,Degree,2019,Q3,Withdrawn,Academically unprepared,June Intake,3,2451,1635,255
+327,Melisa,Croal,Female,Singapore,smu,arts,Bachelor,2010,Q4,Active,NA,Sept intake,1,2741,1510,312
+328,Kore,Phettiplace,Male,Singapore,ntu,science,Phd.,2016,Q4,Active,NA,Sept intake,1,1628,842,318
+329,Udell,Ferrige,Female,Singapore,smu,engineering,Bachelor,2019,Q2,Withdrawn,homesick,Sept intake,1,2070,1702,488
+330,Winni,Braime,Male,Singapore,ntu,engineering,Phd.,2006,Q4,Active,NA,March Intake,2,4715,1509,205
+331,Kristy,Seagood,Male,Singapore,smu,arts,Bachelor,2008,Q3,Active,NA,Sept intake,1,1584,868,294
+332,Sam,Hruska,Male,Singapore,nus,engineering,Phd.,2016,Q4,Active,NA,Sept intake,1,1546,1312,239
+333,Craggie,Posvner,Female,Singapore,ntu,engineering,Phd.,2012,Q4,Active,NA,Sept intake,1,2468,1797,243
+334,Mikol,Aldam,Female,Singapore,smu,engineering,Bachelor,2009,Q4,Withdrawn,Expensive,Sept intake,1,2960,716,364
+335,Durant,Pendrill,Female,Singapore,smu,science,Phd.,2012,Q4,Withdrawn,homesick,Sept intake,1,3912,1054,267
+336,Rhetta,Bewshea,Male,Singapore,smu,engineering,Degree,2018,Q4,Active,NA,June Intake,3,1546,1174,395
+337,Enrichetta,Toopin,Female,Singapore,nus,engineering,Degree,2001,Q4,Active,NA,Sept intake,1,2503,1643,212
+338,Tova,Dodgshun,Female,Singapore,ntu,engineering,Phd.,2011,Q4,Active,NA,June Intake,3,1830,892,314
+339,Stefanie,Antunes,Male,Singapore,smu,science,Phd.,2002,Q3,Withdrawn,homesick,March Intake,2,2026,1507,457
+340,Martelle,Sears,Male,Singapore,ntu,arts,Phd.,2017,Q2,Withdrawn,Academically unprepared,Sept intake,1,2886,1133,278
+341,Kipper,Wreight,Female,Singapore,nus,engineering,Phd.,2016,Q4,Withdrawn,homesick,June Intake,3,1104,1453,431
+342,Sargent,Kingzet,Male,Singapore,smu,science,Phd.,2000,Q3,Withdrawn,Expensive,Sept intake,1,2362,899,281
+343,Waylen,Tomkin,Male,Singapore,ntu,engineering,Degree,2001,Q4,Withdrawn,Expensive,March Intake,2,2638,1265,281
+344,Jana,Wasiela,Male,Singapore,smu,science,Bachelor,2012,Q4,Withdrawn,homesick,Sept intake,1,2220,1181,364
+345,Sammy,Klesel,Female,Singapore,smu,arts,Bachelor,2013,Q3,Withdrawn,homesick,Sept intake,1,1854,785,312
+346,Rolland,Boshere,Male,Singapore,smu,science,Phd.,2020,Q3,Active,NA,Sept intake,1,1679,1640,256
+347,Marijo,Kirstein,Male,Singapore,nus,arts,Phd.,2007,Q4,Active,NA,Sept intake,1,1156,662,392
+348,Lurlene,Vannoni,Male,Singapore,smu,engineering,Bachelor,2018,Q4,Active,NA,Sept intake,1,2352,1706,407
+349,Drusie,Cheetam,Female,Singapore,smu,engineering,Phd.,1999,Q1,Withdrawn,Expensive,June Intake,3,1257,1344,492
+350,Levey,Lawland,Male,Australia,nus,engineering,Bachelor,2015,Q4,Withdrawn,Academically unprepared,Sept intake,1,2419,1068,331
+351,Tedra,de la Valette Parisot,Female,Australia,ntu,science,Bachelor,2014,Q2,Active,NA,Sept intake,1,3023,1707,242
+352,Berkeley,Asmus,Female,Australia,nus,engineering,Phd.,2010,Q3,Withdrawn,Expensive,Sept intake,1,4869,901,413
+353,Clark,Enden,Female,Australia,smu,engineering,Bachelor,2009,Q3,Withdrawn,Academically unprepared,June Intake,3,2630,1084,231
+354,Oriana,Chatell,Female,Australia,nus,engineering,Phd.,1992,Q4,Active,NA,June Intake,3,4430,624,250
+355,Rollin,Thominga,Female,Australia,smu,engineering,Phd.,2008,Q1,Active,NA,March Intake,2,3870,1933,387
+356,Jori,Kares,Female,Australia,smu,engineering,Bachelor,2014,Q4,Active,NA,Sept intake,1,1766,1905,388
+357,Evey,Ladyman,Male,Australia,smu,science,Degree,2003,Q4,Withdrawn,homesick,June Intake,3,3537,1437,426
+358,Joli,Enterle,Female,Australia,smu,science,Phd.,2013,Q3,Active,NA,Sept intake,1,2484,1059,404
+359,Aviva,Zukerman,Female,Australia,smu,science,Degree,1997,Q3,Active,NA,Sept intake,1,2386,1560,352
+360,Stephan,Metham,Female,Australia,ntu,engineering,Degree,2008,Q1,Withdrawn,homesick,Sept intake,1,4088,1246,385
+361,Corie,Mioni,Female,Australia,ntu,science,Phd.,2000,Q3,Withdrawn,Expensive,Sept intake,1,4398,1365,277
+362,Maribelle,Diloway,Male,Australia,ntu,arts,Phd.,2013,Q3,Active,NA,June Intake,3,1660,630,435
+363,Chariot,Fould,Female,Australia,ntu,engineering,Bachelor,2008,Q1,Active,NA,March Intake,2,3353,1466,233
+364,Katrina,Keson,Male,Australia,nus,engineering,Phd.,1995,Q4,Active,NA,June Intake,3,2906,776,362
+365,Isiahi,Yaxley,Female,Australia,smu,arts,Phd.,2003,Q2,Withdrawn,Expensive,June Intake,3,1084,647,423
+366,Decca,D' Angelo,Female,Australia,smu,arts,Phd.,2014,Q2,Withdrawn,Expensive,March Intake,2,2267,1356,441
+367,Rawley,Caldwall,Male,Australia,smu,engineering,Phd.,2014,Q4,Active,NA,June Intake,3,1047,610,437
+368,Prentice,Marciskewski,Female,Australia,smu,arts,Phd.,1994,Q2,Active,NA,Sept intake,1,3579,1899,323
+369,Suzann,Gosdin,Female,Australia,smu,science,Bachelor,2007,Q1,Withdrawn,Expensive,March Intake,2,1664,1677,487
+370,Drona,Djurisic,Female,Australia,smu,arts,Bachelor,2007,Q1,Withdrawn,Academically unprepared,Sept intake,1,1875,1344,270
+371,Chadwick,Marcq,Female,Australia,nus,arts,Phd.,2005,Q4,Withdrawn,Expensive,Sept intake,1,4527,1528,237
+372,Skell,Watt,Female,Australia,nus,engineering,Phd.,1993,Q1,Active,NA,Sept intake,1,2286,955,223
+373,William,Gooke,Male,Australia,nus,arts,Degree,1998,Q1,Active,NA,March Intake,2,3368,780,355
+374,Joby,Siddeley,Male,Australia,smu,engineering,Phd.,1995,Q3,Active,NA,Sept intake,1,4970,921,460
+375,Francine,Krelle,Male,Australia,ntu,engineering,Phd.,2020,Q2,Active,NA,Sept intake,1,4263,739,414
+376,Roda,Faltin,Female,Australia,ntu,arts,Degree,2007,Q3,Active,NA,Sept intake,1,1497,956,344
+377,Jodee,Duckers,Female,Australia,smu,arts,Bachelor,2000,Q3,Withdrawn,homesick,Sept intake,1,4914,1045,265
+378,Marieann,Bradly,Female,Australia,smu,science,Phd.,2012,Q4,Withdrawn,Expensive,Sept intake,1,2985,1173,356
+379,Wynne,Gair,Female,Australia,smu,arts,Phd.,2020,Q2,Withdrawn,homesick,March Intake,2,4119,1354,427
+380,Son,Crosland,Female,Australia,ntu,engineering,Degree,1992,Q1,Withdrawn,homesick,March Intake,2,2695,1974,234
+381,Sharline,Scemp,Female,Australia,smu,engineering,Bachelor,2020,Q3,Withdrawn,Academically unprepared,Sept intake,1,1941,1628,334
+382,Minta,Davidovici,Female,Australia,smu,arts,Degree,2016,Q1,Withdrawn,Expensive,Sept intake,1,3790,931,323
+383,Edita,Patullo,Male,Australia,nus,engineering,Degree,1996,Q4,Withdrawn,Academically unprepared,June Intake,3,4948,1566,264
+384,Amaleta,Emanuele,Male,Australia,nus,arts,Degree,2016,Q4,Withdrawn,Academically unprepared,Sept intake,1,2425,668,469
+385,Katherine,Rasmus,Female,Australia,smu,science,Degree,2017,Q4,Active,NA,June Intake,3,1570,1988,358
+386,Katy,Pennacci,Female,Australia,smu,science,Degree,1997,Q4,Withdrawn,Academically unprepared,Sept intake,1,2965,1200,365
+387,Josh,Ditzel,Female,Australia,smu,engineering,Phd.,1991,Q4,Withdrawn,homesick,Sept intake,1,1087,973,399
+388,Preston,Karpeev,Male,Australia,smu,engineering,Phd.,1997,Q4,Withdrawn,homesick,March Intake,2,3173,1935,216
+389,Dion,Leyzell,Female,Australia,ntu,engineering,Phd.,2018,Q4,Active,NA,Sept intake,1,2740,1927,285
+390,Darlene,Drewell,Male,Australia,nus,science,Bachelor,2000,Q2,Withdrawn,homesick,Sept intake,1,2473,560,448
+391,Lavina,Ligerton,Male,Australia,nus,arts,Degree,2009,Q4,Active,NA,March Intake,2,2957,1126,214
+392,Denny,Tregenna,Male,Australia,ntu,science,Degree,2020,Q4,Withdrawn,Expensive,June Intake,3,1960,1005,300
+393,Hayes,Klosterman,Male,Australia,nus,science,Bachelor,2011,Q3,Active,NA,Sept intake,1,1401,953,263
+394,Allsun,O'Mara,Male,Australia,ntu,science,Bachelor,2009,Q3,Active,NA,Sept intake,1,1923,1195,436
+395,Sophey,Okker,Female,Australia,ntu,engineering,Phd.,2002,Q4,Withdrawn,Expensive,Sept intake,1,3831,1674,433
+396,Griffin,McIan,Female,Australia,smu,engineering,Degree,1996,Q2,Withdrawn,Academically unprepared,Sept intake,1,2336,756,459
+397,Bogart,Tattoo,Female,Australia,ntu,arts,Degree,1997,Q4,Active,NA,March Intake,2,3037,728,253
+398,Eada,Endrici,Female,Australia,smu,science,Bachelor,1998,Q3,Active,NA,Sept intake,1,4415,1386,251
+399,Sam,Marlowe,Female,Australia,smu,arts,Phd.,2003,Q2,Withdrawn,Expensive,June Intake,3,2007,804,471
+400,Jelene,Ech,Female,Australia,ntu,science,Degree,1998,Q3,Withdrawn,Academically unprepared,March Intake,2,2802,821,485
+401,Reilly,House,Female,Singapore,ntu,arts,Bachelor,2010,Q3,Active,NA,Sept intake,1,1419,1925,220
+402,Jamie,Haseley,Female,Singapore,smu,science,Phd.,1991,Q4,Withdrawn,Academically unprepared,Sept intake,1,3153,1384,325
+403,Julius,Bartod,Female,Singapore,smu,arts,Phd.,2003,Q3,Active,NA,Sept intake,1,1710,1140,429
+404,Irvin,Sara,Female,Singapore,ntu,arts,Phd.,1995,Q3,Withdrawn,homesick,Sept intake,1,4253,1522,407
+405,Datha,Brannan,Female,Singapore,smu,engineering,Phd.,2007,Q1,Active,NA,Sept intake,1,2530,1924,210
+406,Lyle,Mebius,Male,Singapore,ntu,arts,Degree,2020,Q3,Active,NA,March Intake,2,2870,1928,410
+407,Shae,Rosell,Female,Singapore,smu,science,Bachelor,2013,Q4,Active,NA,Sept intake,1,4806,1926,454
+408,Antonin,Downing,Female,Singapore,smu,science,Phd.,1993,Q4,Active,NA,Sept intake,1,1500,1547,457
+409,Shae,Forsyde,Female,Singapore,smu,engineering,Phd.,2001,Q4,Withdrawn,homesick,June Intake,3,3294,1172,498
+410,Helsa,Carlan,Male,Singapore,ntu,engineering,Bachelor,2007,Q4,Withdrawn,homesick,March Intake,2,3037,1701,438
+411,Jarrad,O'Dunniom,Male,Singapore,smu,arts,Phd.,2018,Q4,Withdrawn,homesick,Sept intake,1,2981,1047,375
+412,Lenard,Ulyatt,Male,Singapore,nus,engineering,Bachelor,2015,Q4,Active,NA,March Intake,2,1435,1529,344
+413,Charla,Oakley,Female,Singapore,ntu,engineering,Phd.,2020,Q4,Withdrawn,Expensive,Sept intake,1,2366,899,481
+414,Donal,Rattrie,Female,Singapore,ntu,arts,Bachelor,2016,Q4,Withdrawn,Expensive,March Intake,2,4328,690,334
+415,Lindi,Dahlgren,Female,Singapore,smu,engineering,Bachelor,2011,Q4,Withdrawn,Expensive,Sept intake,1,3970,1021,390
+416,Chery,Schoenfisch,Female,Singapore,smu,arts,Phd.,2019,Q1,Withdrawn,Expensive,June Intake,3,2496,1716,451
+417,Ashely,Fullbrook,Male,Singapore,ntu,science,Bachelor,2000,Q3,Withdrawn,Academically unprepared,March Intake,2,2542,802,342
+418,Pace,Ferby,Male,Singapore,smu,engineering,Bachelor,1990,Q4,Active,NA,March Intake,2,2973,1145,343
+419,Bertha,Urwen,Male,Singapore,smu,engineering,Phd.,2004,Q4,Active,NA,June Intake,3,2311,1240,498
+420,Wandie,Aspinall,Female,Singapore,nus,science,Bachelor,2001,Q3,Active,NA,March Intake,2,1701,795,394
+421,Herold,Bidder,Male,Singapore,nus,engineering,Bachelor,2017,Q1,Active,NA,June Intake,3,2641,1267,479
+422,Kelly,Filippello,Female,Singapore,smu,science,Phd.,1994,Q2,Active,NA,March Intake,2,3721,1225,304
+423,Ivett,Davidsson,Male,Singapore,smu,engineering,Phd.,2013,Q4,Active,NA,March Intake,2,3120,1184,482
+424,Hedy,Junifer,Male,Singapore,ntu,science,Phd.,2019,Q3,Withdrawn,homesick,March Intake,2,4118,1679,439
+425,Alex,Mattiussi,Male,Singapore,nus,engineering,Bachelor,2014,Q4,Withdrawn,homesick,March Intake,2,2914,1326,378
+426,Leonanie,Catonne,Male,Singapore,smu,arts,Phd.,2000,Q1,Withdrawn,Expensive,March Intake,2,3342,1042,385
+427,Doralynne,Cockayme,Female,Singapore,nus,engineering,Bachelor,2001,Q3,Withdrawn,homesick,June Intake,3,3161,1320,235
+428,Shane,Hanshawe,Female,Singapore,nus,engineering,Phd.,2017,Q4,Active,NA,March Intake,2,3575,1465,400
+429,Golda,Heditch,Male,Singapore,smu,engineering,Degree,2016,Q3,Withdrawn,Expensive,March Intake,2,4172,1177,438
+430,Bianka,Bodycote,Male,Singapore,smu,arts,Phd.,2010,Q4,Withdrawn,Academically unprepared,June Intake,3,4848,1916,286
+431,Jordain,Todarello,Male,Singapore,smu,arts,Degree,2005,Q2,Active,NA,Sept intake,1,3028,896,293
+432,Elysha,Sills,Female,Singapore,ntu,science,Bachelor,2018,Q4,Active,NA,March Intake,2,4777,1923,277
+433,Shelia,Minshall,Female,Singapore,smu,engineering,Bachelor,2000,Q4,Withdrawn,homesick,Sept intake,1,2086,1909,338
+434,Gabi,Leftly,Male,Singapore,smu,science,Phd.,2010,Q2,Active,NA,March Intake,2,4680,943,217
+435,Lew,Gallie,Male,Singapore,nus,science,Bachelor,1994,Q3,Withdrawn,homesick,Sept intake,1,2922,1451,361
+436,Florida,Arlet,Male,Singapore,nus,engineering,Bachelor,2006,Q4,Active,NA,Sept intake,1,4950,1256,308
+437,Charley,Reinhart,Female,Singapore,ntu,science,Bachelor,2006,Q4,Withdrawn,Academically unprepared,March Intake,2,2120,933,296
+438,Gib,Ronca,Female,Singapore,ntu,engineering,Bachelor,2020,Q3,Withdrawn,homesick,Sept intake,1,2251,1868,454
+439,Nikita,Kaesmans,Male,Singapore,smu,engineering,Phd.,1999,Q4,Withdrawn,Academically unprepared,Sept intake,1,2468,928,209
+440,Patrizius,Ladewig,Male,Singapore,ntu,arts,Degree,1990,Q2,Active,NA,March Intake,2,1847,1271,309
+441,Darda,Avesque,Female,Singapore,ntu,science,Degree,1997,Q4,Active,NA,Sept intake,1,1238,1077,494
+442,Alfie,O'Kelly,Male,Singapore,ntu,arts,Degree,1997,Q3,Active,NA,March Intake,2,1346,1953,283
+443,Linet,Raftery,Male,Singapore,nus,science,Phd.,2020,Q4,Withdrawn,homesick,Sept intake,1,4700,539,216
+444,Cornall,De Simone,Male,Singapore,ntu,science,Phd.,2000,Q3,Active,NA,Sept intake,1,1219,1495,218
+445,Dyna,Canby,Female,Singapore,smu,engineering,Bachelor,2007,Q3,Active,NA,Sept intake,1,3903,697,477
+446,Ree,Haysham,Female,Singapore,nus,science,Phd.,1994,Q4,Active,NA,Sept intake,1,3058,850,452
+447,Lyda,Ianniello,Male,Singapore,nus,engineering,Phd.,2020,Q4,Active,NA,Sept intake,1,3045,1042,352
+448,Marya,Pabst,Female,Singapore,ntu,science,Phd.,2002,Q4,Withdrawn,homesick,Sept intake,1,3257,1961,338
+449,Aldo,Behn,Female,Singapore,nus,science,Degree,1993,Q4,Withdrawn,Expensive,March Intake,2,1684,1261,487
+450,Mata,Ipwell,Female,Singapore,smu,engineering,Phd.,2001,Q4,Withdrawn,homesick,Sept intake,1,3930,1073,436
+451,Coraline,Boulter,Male,Singapore,smu,engineering,Phd.,2000,Q4,Active,NA,March Intake,2,2219,928,490
+452,Ysabel,Stroban,Female,Singapore,smu,engineering,Phd.,2001,Q4,Withdrawn,homesick,Sept intake,1,3705,1643,348
+453,Lief,Eggleson,Male,Singapore,nus,engineering,Phd.,2009,Q4,Active,NA,June Intake,3,2635,1670,414
+454,Ronnica,Learoid,Female,Singapore,ntu,engineering,Degree,2020,Q3,Withdrawn,homesick,June Intake,3,2935,845,304
+455,Leila,Scargle,Female,Singapore,smu,engineering,Bachelor,2001,Q1,Withdrawn,Academically unprepared,March Intake,2,1470,1276,273
+456,Fletcher,Wenden,Female,Singapore,ntu,arts,Phd.,1999,Q1,Withdrawn,homesick,Sept intake,1,2841,805,300
+457,Tatiania,Joynes,Female,Singapore,smu,engineering,Degree,1996,Q2,Withdrawn,Academically unprepared,Sept intake,1,2629,1921,373
+458,Demott,Ambrus,Female,Singapore,smu,engineering,Phd.,2004,Q1,Active,NA,June Intake,3,1057,749,377
+459,Felicity,Baggalley,Male,Singapore,smu,engineering,Bachelor,2011,Q4,Active,NA,Sept intake,1,4735,1056,419
+460,Siegfried,McCahey,Female,Singapore,nus,arts,Phd.,2008,Q4,Active,NA,Sept intake,1,3808,551,419
+461,Kattie,Blofield,Male,Singapore,smu,science,Bachelor,1993,Q4,Active,NA,March Intake,2,1589,1495,361
+462,Dotti,Flewan,Female,Singapore,nus,engineering,Degree,2009,Q4,Withdrawn,homesick,Sept intake,1,1457,892,288
+463,Niel,Draayer,Male,Singapore,ntu,engineering,Phd.,1993,Q3,Active,NA,Sept intake,1,1171,1874,250
+464,Patti,Nancarrow,Male,Singapore,smu,engineering,Phd.,2015,Q4,Active,NA,Sept intake,1,2350,1833,348
+465,Sybille,Seppey,Male,Singapore,ntu,arts,Phd.,1996,Q3,Active,NA,March Intake,2,2195,1749,239
+466,Gillian,Dagwell,Female,Singapore,ntu,engineering,Degree,2002,Q4,Active,NA,Sept intake,1,2828,1870,377
+467,Drusi,Lees,Male,Singapore,ntu,engineering,Degree,2007,Q4,Active,NA,Sept intake,1,2456,1575,285
+468,Goraud,Sarrell,Female,Singapore,smu,engineering,Phd.,1999,Q4,Active,NA,Sept intake,1,1980,923,225
+469,Clair,Nesterov,Female,Singapore,smu,engineering,Phd.,2017,Q1,Active,NA,March Intake,2,3884,517,341
+470,Lynn,Thackston,Male,Singapore,smu,engineering,Phd.,1994,Q2,Withdrawn,Expensive,March Intake,2,3825,538,382
+471,Myra,Cussen,Male,Singapore,smu,arts,Phd.,2001,Q4,Active,NA,March Intake,2,3946,914,417
+472,Jacquette,Brocking,Female,Singapore,smu,science,Bachelor,2018,Q1,Withdrawn,homesick,Sept intake,1,4947,1154,309
+473,Guss,Gamet,Male,Singapore,ntu,arts,Phd.,1996,Q3,Withdrawn,homesick,Sept intake,1,2303,573,270
+474,Winnie,Balazs,Female,Singapore,nus,science,Bachelor,2017,Q4,Active,NA,Sept intake,1,1268,684,443
+475,Wandie,Bartholin,Male,Singapore,smu,engineering,Degree,2001,Q4,Active,NA,Sept intake,1,2499,1350,463
+476,Mac,Skone,Male,Singapore,smu,engineering,Bachelor,2007,Q2,Active,NA,June Intake,3,4609,1583,300
+477,Iago,Johnsson,Female,Singapore,smu,engineering,Phd.,1995,Q1,Withdrawn,homesick,Sept intake,1,3261,1468,463
+478,Merrily,Stother,Female,Singapore,smu,engineering,Bachelor,2002,Q4,Withdrawn,homesick,March Intake,2,4938,1435,322
+479,Brandi,Kinleyside,Male,Singapore,nus,engineering,Degree,1993,Q3,Active,NA,June Intake,3,2016,1279,412
+480,Lucinda,Blackah,Male,Singapore,smu,arts,Phd.,2006,Q4,Active,NA,Sept intake,1,3502,800,460
+481,Arvie,Garred,Female,Singapore,smu,science,Phd.,1990,Q4,Withdrawn,homesick,June Intake,3,2138,1421,389
+482,Reta,Pickthall,Male,Singapore,smu,engineering,Phd.,2020,Q4,Withdrawn,homesick,June Intake,3,3992,1823,226
+483,Leontyne,Rowden,Female,Singapore,smu,engineering,Phd.,2012,Q1,Active,NA,March Intake,2,4896,1191,375
+484,Vikky,Jardin,Female,Singapore,smu,engineering,Phd.,1999,Q1,Withdrawn,homesick,Sept intake,1,4645,1610,486
+485,Adolpho,O'Cahey,Male,Singapore,smu,engineering,Degree,1998,Q4,Withdrawn,homesick,Sept intake,1,3821,1925,302
+486,Serena,Stonhouse,Female,Singapore,ntu,engineering,Bachelor,1992,Q2,Active,NA,June Intake,3,2452,1001,384
+487,Camilla,Aires,Male,Singapore,nus,engineering,Degree,2010,Q3,Withdrawn,homesick,June Intake,3,2055,1697,494
+488,Kinna,Fallis,Male,Singapore,smu,engineering,Phd.,2012,Q2,Withdrawn,Expensive,Sept intake,1,3908,1616,322
+489,Cayla,Dorcey,Female,Singapore,smu,arts,Phd.,2001,Q4,Withdrawn,Expensive,March Intake,2,4224,1998,357
+490,Ruthann,Oxbrow,Female,Singapore,smu,engineering,Bachelor,2015,Q4,Active,NA,Sept intake,1,2082,535,210
+491,Barbette,Biggen,Female,Singapore,smu,science,Degree,2014,Q4,Active,NA,March Intake,2,2726,720,238
+492,Kinna,Ahrendsen,Female,Singapore,smu,arts,Phd.,2005,Q4,Withdrawn,Academically unprepared,Sept intake,1,1498,996,252
+493,Sarah,Neem,Male,Singapore,smu,engineering,Bachelor,1999,Q4,Active,NA,June Intake,3,2600,1516,294
+494,Danya,Longland,Male,Singapore,nus,science,Phd.,1997,Q3,Active,NA,Sept intake,1,4620,578,478
+495,Joel,Collins,Male,Singapore,nus,arts,Bachelor,1990,Q1,Withdrawn,Academically unprepared,March Intake,2,3582,1755,244
+496,Lilla,Allbon,Male,Singapore,smu,science,Bachelor,2018,Q3,Withdrawn,Academically unprepared,March Intake,2,1747,1204,401
+497,Carmon,Streeter,Male,Singapore,nus,science,Phd.,2016,Q4,Withdrawn,homesick,Sept intake,1,3771,1218,437
+498,Daile,Sired,Male,Singapore,smu,engineering,Phd.,1992,Q2,Active,NA,March Intake,2,3557,1562,412
+499,Raffaello,Zimmermanns,Female,Singapore,smu,arts,Phd.,2020,Q4,Active,NA,Sept intake,1,4142,1585,354
+500,Randal,Corkill,Male,Singapore,nus,science,Phd.,2007,Q1,Withdrawn,homesick,Sept intake,1,3180,1710,378
+501,Aviva,Dugmore,Male,Singapore,smu,engineering,Phd.,2002,Q2,Withdrawn,homesick,June Intake,3,3978,1530,497
+502,Tonie,Oty,Female,Singapore,smu,arts,Bachelor,2000,Q3,Active,NA,Sept intake,1,4112,1546,347
+503,Riannon,Bowman,Male,Singapore,smu,science,Bachelor,2011,Q4,Active,NA,Sept intake,1,4334,692,294
+504,Marlie,Kermitt,Male,Singapore,smu,engineering,Bachelor,1994,Q2,Withdrawn,homesick,Sept intake,1,2408,707,228
+505,Claudelle,Suttling,Male,Singapore,ntu,science,Degree,2004,Q1,Active,NA,Sept intake,1,2142,1353,485
+506,Skelly,Greguoli,Female,Singapore,smu,engineering,Phd.,2007,Q2,Withdrawn,Academically unprepared,Sept intake,1,1373,1870,464
+507,Dennie,Giffkins,Male,Singapore,ntu,engineering,Phd.,2001,Q3,Active,NA,June Intake,3,2688,1383,259
+508,Willetta,Kettlesing,Female,Singapore,smu,science,Phd.,2009,Q2,Withdrawn,homesick,Sept intake,1,3807,587,462
+509,Everett,Orneblow,Male,Singapore,nus,science,Bachelor,2017,Q4,Active,NA,Sept intake,1,1136,1655,244
+510,Jany,Cannop,Female,Singapore,nus,engineering,Phd.,2018,Q4,Withdrawn,Expensive,June Intake,3,2138,1636,325
+511,Rosene,Cargon,Female,Singapore,smu,engineering,Phd.,2005,Q3,Active,NA,March Intake,2,2327,1954,252
+512,Gale,Jammes,Female,Singapore,smu,science,Degree,1997,Q4,Active,NA,March Intake,2,1356,515,416
+513,Osbourn,Brydone,Female,Singapore,smu,engineering,Bachelor,2011,Q3,Withdrawn,homesick,June Intake,3,2601,1729,485
+514,Sarita,Witherdon,Female,Singapore,ntu,science,Degree,2012,Q2,Active,NA,Sept intake,1,2635,1293,291
+515,Sally,Carlo,Female,Singapore,nus,science,Phd.,2005,Q3,Withdrawn,Academically unprepared,Sept intake,1,3609,1640,275
+516,Dougie,Fullick,Female,Singapore,smu,engineering,Bachelor,1990,Q1,Active,NA,Sept intake,1,2241,708,275
+517,Pattie,De Minico,Male,Singapore,smu,arts,Degree,2007,Q3,Withdrawn,Academically unprepared,June Intake,3,1188,938,457
+518,Vasili,Brownrigg,Male,Singapore,smu,science,Phd.,1994,Q4,Withdrawn,homesick,Sept intake,1,2125,559,246
+519,Hortensia,Coultous,Female,Singapore,ntu,science,Phd.,1991,Q1,Withdrawn,Academically unprepared,March Intake,2,1889,1216,276
+520,Hobard,Borrell,Female,Singapore,ntu,engineering,Phd.,2017,Q2,Withdrawn,homesick,June Intake,3,3761,1658,462
+521,Alard,Gleave,Male,Singapore,smu,arts,Degree,1993,Q4,Withdrawn,homesick,Sept intake,1,1358,1701,414
+522,Brady,Ruffle,Male,Singapore,smu,arts,Bachelor,2016,Q3,Active,NA,June Intake,3,2353,1619,370
+523,Findlay,de Clerc,Female,Singapore,nus,science,Phd.,2003,Q4,Withdrawn,homesick,Sept intake,1,2335,1674,480
+524,Rube,Thorneloe,Male,Singapore,smu,arts,Phd.,2015,Q4,Active,NA,March Intake,2,1574,571,395
+525,Nada,Cluderay,Male,Singapore,smu,arts,Phd.,2000,Q4,Active,NA,March Intake,2,2370,905,303
+526,Turner,Hablot,Female,Singapore,nus,engineering,Bachelor,2007,Q2,Active,NA,March Intake,2,2627,542,466
+527,Berty,Ablitt,Female,Singapore,smu,science,Phd.,1990,Q3,Active,NA,March Intake,2,2694,1430,231
+528,Rees,Rebanks,Male,Singapore,nus,engineering,Phd.,2011,Q3,Active,NA,June Intake,3,3828,1176,203
+529,Gerri,Matuskiewicz,Male,Singapore,smu,arts,Phd.,2008,Q4,Withdrawn,Academically unprepared,March Intake,2,4671,808,489
+530,Delano,Grason,Male,Singapore,ntu,arts,Phd.,1991,Q1,Withdrawn,Expensive,June Intake,3,1900,861,496
+531,Rubin,Schott,Female,Singapore,nus,engineering,Bachelor,2010,Q4,Active,NA,March Intake,2,2538,659,300
+532,Fayette,Bramley,Female,Singapore,smu,engineering,Bachelor,2017,Q3,Withdrawn,Academically unprepared,Sept intake,1,2650,964,234
+533,Andriana,Fessby,Female,Singapore,nus,engineering,Bachelor,2006,Q4,Withdrawn,Academically unprepared,June Intake,3,1700,1481,414
+534,Robinet,Lawlan,Female,Singapore,smu,science,Degree,1991,Q1,Withdrawn,homesick,Sept intake,1,2201,1558,427
+535,Darcie,Woodcock,Female,Singapore,ntu,engineering,Phd.,1994,Q1,Withdrawn,homesick,June Intake,3,3627,876,392
+536,Tamas,Jobke,Male,Singapore,smu,engineering,Bachelor,2019,Q4,Withdrawn,homesick,March Intake,2,4768,870,211
+537,Lilias,Boughton,Male,Singapore,smu,science,Phd.,1997,Q4,Active,NA,June Intake,3,3421,1437,334
+538,Bernete,Joinson,Male,Singapore,smu,arts,Degree,2016,Q2,Withdrawn,homesick,March Intake,2,2148,1458,353
+539,Dannel,Godard,Female,Singapore,ntu,engineering,Degree,2020,Q1,Withdrawn,Expensive,March Intake,2,4833,1882,324
+540,Sasha,Fownes,Male,Singapore,ntu,arts,Phd.,1992,Q4,Active,NA,Sept intake,1,3473,1288,264
+541,Alexia,Musker,Female,Singapore,ntu,science,Phd.,1996,Q3,Withdrawn,Academically unprepared,March Intake,2,3544,821,456
+542,Bianka,Redmayne,Male,Singapore,ntu,engineering,Phd.,1991,Q4,Withdrawn,Expensive,June Intake,3,3358,1304,263
+543,Billie,Goodfellow,Male,Singapore,smu,engineering,Phd.,2013,Q3,Active,NA,Sept intake,1,1345,1414,268
+544,Belia,Vasyushkhin,Female,Singapore,smu,engineering,Phd.,2011,Q4,Active,NA,June Intake,3,2874,1522,491
+545,Ambros,Nicolls,Male,Singapore,smu,engineering,Phd.,1991,Q1,Active,NA,June Intake,3,1312,1944,373
+546,Wang,Gabala,Male,Singapore,ntu,engineering,Phd.,2009,Q2,Active,NA,Sept intake,1,4139,974,270
+547,Geri,Wartnaby,Female,Singapore,nus,engineering,Phd.,2000,Q4,Active,NA,Sept intake,1,3292,1579,228
+548,Cross,Dalziel,Male,Singapore,smu,engineering,Phd.,1991,Q3,Withdrawn,homesick,March Intake,2,3295,1948,410
+549,Biddie,Cunnah,Female,Singapore,smu,science,Phd.,1998,Q4,Active,NA,March Intake,2,2543,774,254
+550,Micki,Vautin,Male,Singapore,smu,science,Bachelor,2014,Q4,Withdrawn,Academically unprepared,March Intake,2,3474,960,474
+551,Lynelle,Spehr,Female,Singapore,smu,arts,Degree,2005,Q3,Active,NA,March Intake,2,2018,1386,334
+552,Jenica,Rhodus,Female,Singapore,smu,arts,Degree,1992,Q4,Withdrawn,Expensive,Sept intake,1,1118,577,263
+553,Griselda,Bampforth,Male,Singapore,nus,arts,Phd.,1993,Q4,Withdrawn,homesick,Sept intake,1,3130,1114,287
+554,Rycca,Giottini,Male,Singapore,smu,engineering,Bachelor,1996,Q2,Withdrawn,Academically unprepared,June Intake,3,2683,764,357
+555,Rickie,Rolfi,Female,Singapore,ntu,science,Phd.,1997,Q4,Active,NA,March Intake,2,4990,1343,380
+556,Galen,Blofield,Female,Singapore,nus,arts,Phd.,2005,Q2,Withdrawn,Expensive,Sept intake,1,4746,706,279
+557,Nial,McCormack,Male,Singapore,nus,engineering,Degree,2019,Q4,Withdrawn,homesick,Sept intake,1,1288,1510,486
+558,Arabela,Caulier,Male,Singapore,smu,arts,Phd.,1996,Q4,Active,NA,Sept intake,1,3768,1568,228
+559,Agnes,Palombi,Male,Singapore,nus,science,Degree,2006,Q4,Active,NA,Sept intake,1,2740,579,284
+560,Gena,Coultard,Male,Singapore,smu,engineering,Bachelor,1997,Q3,Active,NA,Sept intake,1,4046,611,293
+561,Maiga,Jellyman,Male,Singapore,smu,engineering,Phd.,2002,Q3,Withdrawn,Expensive,June Intake,3,3999,931,409
+562,Ernaline,Bollard,Female,Singapore,nus,arts,Bachelor,1991,Q4,Withdrawn,homesick,Sept intake,1,4621,1478,276
+563,Olivette,Frisby,Male,Singapore,ntu,engineering,Bachelor,2010,Q3,Active,NA,Sept intake,1,1112,1756,487
+564,Markus,Fallis,Male,Singapore,ntu,arts,Phd.,2005,Q4,Active,NA,Sept intake,1,1265,1642,406
+565,Zita,Moxted,Female,Singapore,ntu,science,Bachelor,1991,Q3,Withdrawn,Expensive,June Intake,3,4406,1092,409
+566,Tori,Sheara,Male,Singapore,smu,science,Phd.,2013,Q1,Active,NA,March Intake,2,3479,503,319
+567,Sacha,Fenners,Male,Singapore,smu,arts,Bachelor,1997,Q4,Active,NA,Sept intake,1,1768,1110,389
+568,Roosevelt,Paish,Male,Singapore,smu,arts,Bachelor,2009,Q3,Withdrawn,homesick,Sept intake,1,2857,1103,409
+569,Coleen,Daffern,Male,Singapore,nus,engineering,Phd.,2006,Q4,Active,NA,March Intake,2,1383,1182,295
+570,Domenico,Jeandeau,Male,Singapore,ntu,engineering,Degree,2019,Q1,Active,NA,Sept intake,1,1001,1086,482
+571,Liv,Edmondson,Female,Singapore,smu,engineering,Phd.,2019,Q4,Active,NA,Sept intake,1,4691,652,444
+572,Deborah,Bosanko,Male,Singapore,nus,engineering,Phd.,1991,Q1,Active,NA,June Intake,3,3325,1997,275
+573,Robbi,Pexton,Female,Singapore,nus,engineering,Bachelor,1993,Q4,Withdrawn,Expensive,Sept intake,1,3808,1485,377
+574,Betty,Stooders,Female,Singapore,smu,engineering,Phd.,2001,Q2,Withdrawn,Expensive,June Intake,3,1563,807,399
+575,Biddy,Skellon,Female,Singapore,smu,science,Bachelor,1994,Q4,Withdrawn,homesick,Sept intake,1,4061,515,272
+576,Stefanie,Nuth,Male,Singapore,nus,science,Phd.,2010,Q1,Withdrawn,homesick,March Intake,2,4409,611,204
+577,Valaree,Ludee,Male,Singapore,nus,arts,Phd.,2003,Q4,Withdrawn,Expensive,Sept intake,1,3069,1881,461
+578,Homerus,Rubberts,Male,Singapore,smu,engineering,Phd.,2011,Q4,Withdrawn,Expensive,Sept intake,1,4850,1949,354
+579,Nicole,Sliman,Female,Singapore,ntu,engineering,Phd.,2000,Q1,Active,NA,June Intake,3,1603,1254,238
+580,Leena,Southgate,Male,Singapore,smu,science,Degree,2007,Q3,Active,NA,June Intake,3,1213,710,484
+581,Polly,Boatwright,Female,Singapore,smu,science,Phd.,2002,Q2,Withdrawn,homesick,June Intake,3,3160,1610,284
+582,Ketti,Jindrich,Female,Singapore,smu,engineering,Phd.,1998,Q4,Active,NA,Sept intake,1,4109,1980,328
+583,Bradly,Death,Female,Singapore,smu,arts,Bachelor,2001,Q4,Active,NA,Sept intake,1,3670,1876,332
+584,Wilbur,Varfalameev,Female,Singapore,smu,engineering,Bachelor,2010,Q1,Active,NA,Sept intake,1,2808,1568,421
+585,Christy,McAster,Female,Singapore,smu,arts,Degree,1995,Q1,Active,NA,Sept intake,1,3067,1972,374
+586,Rennie,Swale,Female,Singapore,nus,engineering,Phd.,2013,Q3,Active,NA,March Intake,2,3271,994,367
+587,Elmo,Deverill,Female,Singapore,nus,engineering,Phd.,1993,Q4,Withdrawn,Expensive,Sept intake,1,2387,507,310
+588,Kingsly,Towse,Male,Singapore,ntu,engineering,Degree,2001,Q3,Active,NA,Sept intake,1,1305,822,484
+589,Gloriane,Kinker,Female,Singapore,ntu,engineering,Degree,2008,Q4,Active,NA,June Intake,3,4176,1298,217
+590,Jamaal,Cuddihy,Male,Singapore,ntu,engineering,Degree,2008,Q4,Withdrawn,homesick,Sept intake,1,4384,1131,349
+591,Lothario,Noorwood,Male,Singapore,nus,science,Degree,2003,Q4,Active,NA,June Intake,3,4587,1909,253
+592,Bogart,Tarbatt,Male,Singapore,ntu,engineering,Phd.,2018,Q4,Active,NA,June Intake,3,1466,534,253
+593,Amberly,Mairs,Female,Singapore,nus,arts,Bachelor,2016,Q4,Withdrawn,Expensive,March Intake,2,2888,1216,486
+594,Marieann,Stonuary,Male,Singapore,smu,arts,Degree,2004,Q4,Withdrawn,homesick,June Intake,3,1135,643,356
+595,Purcell,Schiementz,Female,Singapore,smu,science,Bachelor,2008,Q4,Withdrawn,homesick,Sept intake,1,3684,1396,482
+596,Rudolfo,Lukas,Male,Singapore,smu,engineering,Degree,2005,Q4,Active,NA,Sept intake,1,4410,1028,309
+597,Urson,Leathwood,Male,Singapore,ntu,engineering,Phd.,2006,Q4,Active,NA,Sept intake,1,3029,1412,219
+598,Hendrik,Pawle,Male,Singapore,smu,arts,Bachelor,1992,Q1,Active,NA,Sept intake,1,1398,642,235
+599,Belicia,Scarce,Male,Singapore,ntu,engineering,Phd.,2009,Q3,Active,NA,June Intake,3,3119,1978,386
+600,Charline,Sager,Female,Thailand,smu,engineering,Bachelor,2011,Q4,Active,NA,March Intake,2,3270,1481,487
+601,Giavani,MacAughtrie,Female,Thailand,nus,science,Degree,2004,Q4,Withdrawn,Expensive,Sept intake,1,1365,1986,380
+602,Willyt,Challoner,Male,Thailand,smu,arts,Phd.,2000,Q1,Withdrawn,homesick,Sept intake,1,2221,1529,454
+603,Gaspar,Ary,Male,Thailand,smu,engineering,Phd.,2019,Q4,Withdrawn,Expensive,Sept intake,1,4593,1422,425
+604,Kissiah,Tolemache,Female,Thailand,smu,science,Bachelor,1991,Q4,Withdrawn,homesick,Sept intake,1,3954,1890,261
+605,Alexina,Barribal,Male,Thailand,ntu,arts,Phd.,2016,Q3,Withdrawn,homesick,Sept intake,1,3522,1519,343
+606,Woodman,Cridlin,Female,Thailand,ntu,science,Degree,2000,Q3,Active,NA,Sept intake,1,3408,1334,477
+607,Cecilia,O'Flynn,Female,Thailand,smu,engineering,Degree,2019,Q3,Active,NA,Sept intake,1,1924,1483,324
+608,Melisande,Pinchin,Male,Thailand,smu,arts,Phd.,2020,Q3,Withdrawn,Academically unprepared,June Intake,3,3422,900,276
+609,Elberta,Worsnup,Male,Thailand,smu,arts,Phd.,1992,Q4,Withdrawn,homesick,Sept intake,1,4008,1020,446
+610,Cara,Troake,Female,Thailand,ntu,engineering,Phd.,1997,Q3,Withdrawn,homesick,March Intake,2,3118,1480,303
+611,Felice,Colten,Female,Thailand,smu,engineering,Bachelor,2005,Q4,Active,NA,March Intake,2,3804,968,217
+612,Querida,Nicklin,Female,Thailand,nus,engineering,Phd.,2009,Q4,Active,NA,Sept intake,1,3660,1187,425
+613,Viviyan,Paulin,Male,Thailand,nus,science,Degree,2002,Q4,Active,NA,Sept intake,1,2771,1465,401
+614,Immanuel,Bolstridge,Male,Thailand,smu,engineering,Phd.,1996,Q4,Withdrawn,Academically unprepared,June Intake,3,2834,1470,338
+615,Veda,Wilkowski,Male,Thailand,ntu,arts,Phd.,2001,Q4,Withdrawn,Expensive,March Intake,2,3680,1370,235
+616,Tiebold,Dyson,Male,Thailand,ntu,engineering,Phd.,2002,Q4,Active,NA,Sept intake,1,1259,1972,318
+617,Reagen,Lindro,Female,Thailand,ntu,engineering,Bachelor,2011,Q4,Active,NA,Sept intake,1,1148,624,252
+618,Zach,Spensly,Female,Thailand,smu,science,Phd.,1998,Q4,Active,NA,Sept intake,1,1335,1949,349
+619,Maurene,McPeice,Female,Thailand,smu,science,Bachelor,2003,Q1,Active,NA,Sept intake,1,3590,1099,427
+620,Cristen,Pedracci,Male,Thailand,nus,arts,Degree,2017,Q3,Active,NA,March Intake,2,3955,664,420
+621,Berk,O' Scallan,Female,Thailand,nus,engineering,Degree,2014,Q4,Withdrawn,Academically unprepared,March Intake,2,1980,1192,211
+622,Carita,Gisbey,Male,Thailand,nus,engineering,Degree,2007,Q4,Active,NA,Sept intake,1,2726,1793,444
+623,Clyve,Yakubovich,Male,Thailand,smu,engineering,Phd.,2000,Q4,Withdrawn,Expensive,March Intake,2,4727,1690,277
+624,Kiley,Tunesi,Female,Thailand,nus,arts,Degree,2010,Q2,Withdrawn,Expensive,Sept intake,1,4963,747,498
+625,Louie,Burry,Female,Thailand,nus,engineering,Degree,1990,Q1,Withdrawn,Expensive,March Intake,2,4029,1383,338
+626,Ringo,Sergean,Male,Thailand,ntu,engineering,Bachelor,2018,Q4,Withdrawn,Expensive,March Intake,2,3896,1773,316
+627,Cindy,Brito,Female,Thailand,nus,arts,Degree,1996,Q4,Active,NA,March Intake,2,2096,1564,402
+628,Ogdan,Tremayle,Female,Thailand,smu,engineering,Phd.,2014,Q4,Active,NA,Sept intake,1,2068,1435,291
+629,Evelyn,Kean,Male,Thailand,nus,engineering,Phd.,2019,Q3,Withdrawn,Expensive,Sept intake,1,1851,836,259
+630,Giacinta,Hickin,Female,Thailand,smu,engineering,Phd.,2009,Q4,Active,NA,June Intake,3,2586,1862,495
+631,Arlen,Lax,Male,Thailand,nus,science,Phd.,2002,Q4,Withdrawn,homesick,March Intake,2,2465,1865,210
+632,Erich,Marmion,Female,Thailand,smu,science,Bachelor,1996,Q1,Active,NA,March Intake,2,4036,1618,494
+633,Augusta,Hamblyn,Female,Thailand,smu,science,Phd.,1990,Q2,Withdrawn,homesick,Sept intake,1,1984,1328,309
+634,Obidiah,Tryhorn,Female,Thailand,nus,engineering,Phd.,2010,Q4,Active,NA,Sept intake,1,2971,1333,297
+635,Timotheus,Rawne,Male,Thailand,smu,engineering,Bachelor,2009,Q4,Active,NA,Sept intake,1,1819,902,447
+636,Vivian,Attoc,Female,Thailand,smu,arts,Phd.,1998,Q2,Withdrawn,homesick,March Intake,2,1214,1508,478
+637,Robbin,Parrett,Male,Thailand,ntu,science,Degree,2017,Q3,Active,NA,March Intake,2,2086,1842,463
+638,Peirce,Setchfield,Female,Thailand,ntu,engineering,Degree,1995,Q1,Active,NA,Sept intake,1,1343,776,376
+639,Connie,Hancorn,Male,Thailand,ntu,engineering,Bachelor,2015,Q3,Active,NA,Sept intake,1,1684,1656,346
+640,Roby,Jozefiak,Female,Thailand,smu,science,Phd.,1995,Q1,Withdrawn,homesick,Sept intake,1,3059,1328,481
+641,Augie,Grishakin,Male,Thailand,ntu,science,Bachelor,2013,Q3,Withdrawn,Expensive,March Intake,2,1865,1891,465
+642,Carlie,Leathes,Female,Thailand,nus,science,Phd.,2017,Q4,Withdrawn,Academically unprepared,Sept intake,1,4896,681,366
+643,Brook,Hastings,Female,Thailand,smu,arts,Bachelor,2012,Q4,Withdrawn,homesick,March Intake,2,4173,1093,245
+644,Linnie,Kerrey,Female,Thailand,ntu,engineering,Phd.,1994,Q3,Active,NA,March Intake,2,2344,1526,379
+645,Berrie,Northrop,Female,Thailand,smu,arts,Degree,2002,Q4,Withdrawn,Expensive,Sept intake,1,1231,1755,332
+646,Sigrid,Bisacre,Male,Thailand,smu,arts,Phd.,2004,Q4,Withdrawn,Academically unprepared,June Intake,3,4580,618,266
+647,Suzette,Hainey`,Male,Thailand,smu,engineering,Phd.,2019,Q3,Withdrawn,homesick,March Intake,2,1973,1693,314
+648,Colman,Asson,Female,Thailand,smu,engineering,Phd.,2008,Q4,Withdrawn,homesick,Sept intake,1,2189,1284,485
+649,Vivien,Cuzen,Female,Thailand,smu,science,Phd.,2015,Q4,Withdrawn,Academically unprepared,June Intake,3,4463,868,325
+650,Nerte,Bawle,Female,Thailand,smu,arts,Phd.,1998,Q3,Active,NA,Sept intake,1,1742,809,208
+651,Rudolph,Playden,Female,Thailand,nus,science,Phd.,2009,Q4,Active,NA,March Intake,2,4107,1972,350
+652,Reuben,Shrimpling,Female,Thailand,nus,science,Phd.,1998,Q2,Withdrawn,homesick,June Intake,3,4462,1680,418
+653,Nolly,Marler,Female,Thailand,smu,arts,Phd.,2003,Q1,Withdrawn,Academically unprepared,Sept intake,1,2901,1814,298
+654,Kingston,Bound,Female,Thailand,smu,engineering,Phd.,1992,Q4,Withdrawn,homesick,Sept intake,1,2462,1288,477
+655,Margy,Winfred,Female,Thailand,smu,engineering,Phd.,2007,Q4,Active,NA,Sept intake,1,3996,1274,291
+656,Eddie,Coleson,Female,Thailand,nus,engineering,Phd.,2003,Q4,Withdrawn,homesick,June Intake,3,4025,859,229
+657,Fidole,Norcross,Male,Thailand,nus,engineering,Phd.,2015,Q4,Active,NA,Sept intake,1,4596,766,274
+658,Des,Richardet,Male,Thailand,ntu,engineering,Phd.,2017,Q4,Withdrawn,Expensive,Sept intake,1,1425,1063,439
+659,Nappie,Rummery,Female,Thailand,smu,arts,Phd.,1994,Q1,Active,NA,Sept intake,1,1906,1073,327
+660,Isa,Banbrook,Female,Thailand,ntu,arts,Bachelor,1998,Q3,Withdrawn,homesick,Sept intake,1,2923,1539,225
+661,Melina,Coulthard,Male,Thailand,nus,arts,Bachelor,2003,Q2,Withdrawn,Academically unprepared,June Intake,3,2480,1007,226
+662,Flinn,Corkel,Male,Thailand,smu,engineering,Bachelor,2017,Q3,Withdrawn,homesick,June Intake,3,1601,1952,220
+663,Holly,Monni,Male,Thailand,ntu,arts,Phd.,2010,Q3,Active,NA,June Intake,3,4802,1383,484
+664,Saxon,Crollman,Female,Thailand,smu,engineering,Phd.,2001,Q4,Withdrawn,homesick,Sept intake,1,1392,1958,424
+665,Langston,Sapwell,Male,Thailand,smu,engineering,Phd.,2017,Q1,Active,NA,Sept intake,1,2802,1800,296
+666,Marlo,Pitkin,Female,Thailand,nus,science,Phd.,2009,Q4,Active,NA,Sept intake,1,2367,1371,472
+667,Marchall,Carse,Female,Thailand,smu,engineering,Phd.,1995,Q4,Withdrawn,homesick,June Intake,3,1517,1451,363
+668,El,Josifovitz,Male,Thailand,smu,engineering,Degree,1992,Q4,Active,NA,Sept intake,1,3953,1540,263
+669,Gaston,Firsby,Male,Thailand,nus,science,Degree,1993,Q4,Active,NA,March Intake,2,3175,1408,373
+670,Morse,Tellenbach,Male,Thailand,smu,science,Bachelor,2012,Q2,Withdrawn,homesick,Sept intake,1,2678,594,493
+671,Hilary,Kadwallider,Male,Thailand,smu,engineering,Degree,2010,Q3,Active,NA,Sept intake,1,2254,688,229
+672,Zebulon,Gregorin,Male,Thailand,smu,science,Bachelor,2005,Q4,Withdrawn,Expensive,June Intake,3,3297,1633,381
+673,Roselin,Jamblin,Male,Thailand,nus,science,Phd.,1996,Q1,Active,NA,March Intake,2,1273,617,418
+674,Vale,Wedlake,Male,Thailand,smu,science,Bachelor,1994,Q4,Active,NA,Sept intake,1,2364,1275,217
+675,Neall,Laviste,Female,Thailand,nus,science,Bachelor,2005,Q3,Active,NA,June Intake,3,2652,885,265
+676,Cristen,Goldsmith,Male,Thailand,smu,engineering,Phd.,1994,Q2,Active,NA,Sept intake,1,3840,1364,286
+677,Eba,Dunsire,Female,Thailand,nus,arts,Phd.,1998,Q4,Active,NA,Sept intake,1,4949,538,363
+678,Brody,Elkington,Female,Thailand,smu,engineering,Phd.,1998,Q4,Withdrawn,homesick,Sept intake,1,1310,855,497
+679,Roxane,Sahlstrom,Female,Thailand,nus,science,Bachelor,1999,Q2,Withdrawn,Academically unprepared,Sept intake,1,1655,1613,431
+680,Suzann,Stonelake,Female,Thailand,nus,engineering,Phd.,2010,Q4,Active,NA,March Intake,2,1430,686,496
+681,Doe,Redgrove,Female,Thailand,nus,arts,Bachelor,2008,Q1,Active,NA,June Intake,3,2360,502,494
+682,Andra,Muselli,Male,Thailand,smu,engineering,Phd.,2019,Q4,Withdrawn,homesick,Sept intake,1,1120,1053,466
+683,Warren,Barrell,Male,Thailand,smu,science,Phd.,2014,Q3,Withdrawn,Expensive,Sept intake,1,4706,936,315
+684,Ruttger,Methringham,Female,Thailand,smu,science,Phd.,1996,Q4,Withdrawn,homesick,Sept intake,1,4771,1632,417
+685,Walden,Daingerfield,Female,Thailand,smu,arts,Phd.,2014,Q3,Withdrawn,Academically unprepared,Sept intake,1,3947,1515,475
+686,Lauralee,Cahani,Male,Thailand,ntu,arts,Bachelor,1990,Q4,Active,NA,June Intake,3,4535,791,426
+687,Mohandis,Patchett,Male,Thailand,smu,engineering,Phd.,2007,Q4,Withdrawn,Expensive,Sept intake,1,3536,1475,358
+688,Pietrek,Oswal,Female,Thailand,nus,arts,Phd.,2009,Q4,Withdrawn,homesick,March Intake,2,4162,1222,306
+689,Magdalene,Pigne,Female,Thailand,ntu,arts,Phd.,1995,Q4,Active,NA,Sept intake,1,1075,962,226
+690,Hanny,Holburn,Female,Thailand,ntu,engineering,Phd.,2015,Q2,Active,NA,Sept intake,1,3391,517,283
+691,Zacharias,Brodnecke,Male,Thailand,smu,engineering,Phd.,2008,Q4,Active,NA,March Intake,2,1274,1701,204
+692,Con,de Vaen,Female,Thailand,smu,science,Phd.,1995,Q4,Withdrawn,homesick,June Intake,3,3583,854,283
+693,Ferd,Cornbell,Male,Thailand,ntu,science,Phd.,2018,Q4,Active,NA,Sept intake,1,3960,868,284
+694,Tana,Frances,Male,Thailand,ntu,arts,Degree,1995,Q4,Active,NA,Sept intake,1,4366,1597,439
+695,Petr,Hasslocher,Male,Thailand,smu,engineering,Bachelor,1991,Q3,Withdrawn,homesick,Sept intake,1,2543,1160,490
+696,Phaidra,Belvin,Female,Thailand,smu,science,Bachelor,2012,Q4,Active,NA,June Intake,3,4689,1452,484
+697,Vin,Gales,Female,Thailand,nus,science,Phd.,2009,Q1,Active,NA,Sept intake,1,3858,912,355
+698,Belia,Flaonier,Female,Thailand,smu,science,Degree,2007,Q3,Active,NA,June Intake,3,3324,1162,494
+699,Vannie,Haynesford,Male,Thailand,ntu,engineering,Degree,2004,Q3,Active,NA,June Intake,3,1623,835,257
+700,Zilvia,Challicum,Male,Thailand,smu,arts,Bachelor,1991,Q4,Withdrawn,homesick,March Intake,2,1865,1153,442
+701,Shawn,Vynoll,Female,Singapore,nus,arts,Bachelor,2016,Q4,Active,NA,June Intake,3,1706,1031,402
+702,Nickolai,Bendik,Male,Singapore,smu,engineering,Phd.,2007,Q4,Active,NA,March Intake,2,1807,1638,394
+703,Donalt,Gillopp,Female,Singapore,smu,arts,Bachelor,1997,Q4,Withdrawn,homesick,Sept intake,1,2151,1443,346
+704,Nahum,Morstatt,Female,Singapore,nus,engineering,Phd.,2001,Q4,Active,NA,June Intake,3,1488,1755,350
+705,Donella,Camois,Female,Singapore,smu,science,Phd.,1997,Q4,Withdrawn,Academically unprepared,Sept intake,1,4527,1447,365
+706,Bebe,Corkitt,Male,Singapore,ntu,arts,Bachelor,2010,Q3,Withdrawn,Academically unprepared,Sept intake,1,3941,883,334
+707,Kylie,Callcott,Male,Singapore,smu,engineering,Bachelor,1993,Q2,Withdrawn,Expensive,Sept intake,1,3134,885,224
+708,Keefe,Bawme,Male,Singapore,nus,engineering,Bachelor,1999,Q3,Withdrawn,Academically unprepared,Sept intake,1,3706,591,261
+709,Jeniece,Freezer,Male,Singapore,smu,science,Phd.,2015,Q1,Withdrawn,homesick,June Intake,3,3492,1796,224
+710,Raddy,Wife,Male,Singapore,smu,engineering,Phd.,2010,Q4,Withdrawn,homesick,Sept intake,1,4382,1747,415
+711,Janith,Fickling,Female,Singapore,ntu,engineering,Phd.,2013,Q4,Withdrawn,Expensive,Sept intake,1,1689,835,303
+712,Rockwell,Hughlock,Male,Singapore,smu,science,Phd.,2019,Q4,Withdrawn,Expensive,June Intake,3,4994,717,383
+713,Berti,Ridout,Female,Singapore,ntu,science,Phd.,2018,Q4,Active,NA,Sept intake,1,2994,1154,345
+714,Gustav,Lorence,Female,Singapore,nus,engineering,Phd.,2017,Q1,Withdrawn,Academically unprepared,Sept intake,1,2683,1200,369
+715,Baldwin,Burnham,Male,Singapore,smu,engineering,Phd.,2019,Q4,Active,NA,March Intake,2,4800,712,243
+716,Hildagarde,Westmorland,Female,Singapore,smu,engineering,Phd.,2000,Q1,Active,NA,Sept intake,1,1156,1807,249
+717,Ulrike,Hudspeth,Female,Singapore,smu,arts,Bachelor,2016,Q4,Active,NA,Sept intake,1,1218,1029,309
+718,Francois,Lumly,Male,Singapore,ntu,engineering,Phd.,2017,Q4,Active,NA,Sept intake,1,1486,1978,494
+719,Letisha,Timms,Female,Singapore,nus,engineering,Degree,1998,Q3,Withdrawn,homesick,March Intake,2,4227,1431,249
+720,Kessiah,Pinn,Female,Singapore,smu,science,Degree,2016,Q4,Withdrawn,Academically unprepared,Sept intake,1,2379,1090,301
+721,Esdras,Blasiak,Female,Singapore,smu,engineering,Degree,2007,Q3,Active,NA,March Intake,2,1140,807,203
+722,Rina,Le Marchand,Female,Singapore,ntu,arts,Degree,1994,Q2,Withdrawn,Expensive,March Intake,2,1475,640,277
+723,Harman,Seery,Female,Singapore,smu,engineering,Phd.,2011,Q4,Active,NA,March Intake,2,4623,1693,298
+724,Georgine,Trusse,Female,Singapore,ntu,arts,Phd.,2012,Q3,Active,NA,June Intake,3,1505,806,424
+725,Kerrill,Tompsett,Male,Singapore,smu,engineering,Phd.,2012,Q4,Withdrawn,Academically unprepared,Sept intake,1,4823,1942,207
+726,Kamila,Brolechan,Male,Singapore,smu,arts,Bachelor,1992,Q3,Active,NA,Sept intake,1,3370,1836,200
+727,Alisun,Szymon,Male,Singapore,nus,engineering,Bachelor,2017,Q4,Withdrawn,Expensive,June Intake,3,1881,1765,377
+728,Melva,Strothers,Female,Singapore,smu,science,Phd.,2020,Q4,Active,NA,March Intake,2,1287,1378,205
+729,Jemmie,Bolam,Male,Singapore,ntu,science,Phd.,1996,Q4,Withdrawn,Academically unprepared,Sept intake,1,3023,1012,332
+730,Chick,McKenna,Male,Singapore,smu,arts,Phd.,2003,Q3,Active,NA,March Intake,2,4158,577,241
+731,Natassia,Isakovic,Male,Singapore,smu,arts,Degree,2004,Q4,Withdrawn,homesick,Sept intake,1,2189,1537,488
+732,Edee,Starzaker,Male,Singapore,ntu,engineering,Degree,2001,Q4,Active,NA,March Intake,2,2103,1170,389
+733,Fredericka,Van Brug,Female,Singapore,smu,arts,Phd.,2020,Q4,Active,NA,Sept intake,1,4670,593,345
+734,Eben,Rossi,Male,Singapore,ntu,arts,Phd.,2012,Q4,Active,NA,June Intake,3,2952,726,460
+735,Agnes,Slater,Male,Singapore,smu,science,Phd.,2012,Q2,Active,NA,Sept intake,1,1691,603,435
+736,Gert,Cuncarr,Female,Singapore,smu,science,Phd.,1999,Q4,Withdrawn,Academically unprepared,Sept intake,1,4727,836,433
+737,Shelbi,Beavors,Female,Singapore,ntu,science,Phd.,1998,Q4,Active,NA,June Intake,3,2915,1939,351
+738,Gussi,Stidever,Male,Singapore,smu,engineering,Phd.,1993,Q3,Withdrawn,Academically unprepared,March Intake,2,3665,1303,484
+739,Roobbie,Howard - Gater,Male,Singapore,ntu,science,Bachelor,2001,Q4,Active,NA,Sept intake,1,2293,1634,406
+740,Julian,Kew,Female,Singapore,ntu,engineering,Phd.,1997,Q4,Active,NA,June Intake,3,3404,665,351
+741,Free,McCuffie,Male,Singapore,ntu,science,Phd.,2006,Q1,Active,NA,June Intake,3,4752,928,372
+742,Elijah,Bonny,Male,Singapore,ntu,arts,Bachelor,2017,Q4,Active,NA,March Intake,2,2237,1589,321
+743,Ynez,Fishbourne,Male,Singapore,ntu,arts,Bachelor,1997,Q4,Withdrawn,homesick,March Intake,2,1441,1146,210
+744,Rurik,Ladd,Female,Singapore,smu,engineering,Phd.,1996,Q4,Withdrawn,homesick,Sept intake,1,4437,1374,265
+745,Lavinia,Tremathack,Male,Singapore,ntu,engineering,Bachelor,2007,Q4,Active,NA,Sept intake,1,1579,1844,456
+746,Malanie,Digby,Female,Singapore,smu,science,Bachelor,2014,Q4,Active,NA,June Intake,3,3158,1238,335
+747,Fernanda,Pagelsen,Female,Singapore,nus,engineering,Bachelor,2002,Q3,Withdrawn,homesick,Sept intake,1,1429,827,283
+748,Hildegarde,Scowen,Female,Singapore,smu,science,Degree,2009,Q4,Active,NA,June Intake,3,4728,1521,469
+749,Jonis,Doy,Male,Singapore,nus,engineering,Degree,2017,Q3,Withdrawn,Academically unprepared,Sept intake,1,2515,1460,340
+750,Ingaberg,Turk,Male,Singapore,nus,arts,Phd.,2015,Q4,Withdrawn,homesick,Sept intake,1,1688,1998,402
+751,Genvieve,Mulliss,Female,Indonesia,smu,engineering,Phd.,1998,Q2,Active,NA,Sept intake,1,3620,745,399
+752,Lyndell,Cheney,Female,Indonesia,smu,engineering,Phd.,1999,Q3,Active,NA,March Intake,2,3596,786,372
+753,Tamera,Afonso,Female,Indonesia,smu,arts,Phd.,2017,Q3,Withdrawn,homesick,June Intake,3,4438,875,259
+754,Gwennie,Earle,Female,Indonesia,ntu,science,Phd.,2020,Q4,Withdrawn,homesick,June Intake,3,3711,1387,495
+755,Bradford,Banstead,Female,Indonesia,smu,arts,Degree,2000,Q4,Active,NA,June Intake,3,4863,1580,268
+756,Ulrikaumeko,Thatcham,Male,Indonesia,ntu,science,Phd.,1991,Q1,Withdrawn,Expensive,Sept intake,1,1934,938,447
+757,Lynea,Rosenkrantz,Male,Indonesia,ntu,engineering,Degree,2007,Q4,Withdrawn,Expensive,June Intake,3,4777,1176,382
+758,Millie,Seater,Male,Indonesia,nus,science,Phd.,1995,Q2,Active,NA,Sept intake,1,2873,1345,319
+759,Barnabas,Sacco,Male,Indonesia,smu,engineering,Phd.,1997,Q4,Active,NA,March Intake,2,4311,1888,231
+760,Curtis,Cosstick,Female,Indonesia,smu,science,Bachelor,2000,Q1,Withdrawn,Expensive,Sept intake,1,1527,521,326
+761,Silvan,Duhig,Male,Indonesia,smu,engineering,Phd.,2007,Q1,Active,NA,June Intake,3,1302,1950,453
+762,Fielding,Northley,Female,Indonesia,nus,arts,Phd.,1999,Q3,Withdrawn,homesick,Sept intake,1,4244,1781,219
+763,Wright,Castelletti,Female,Indonesia,smu,engineering,Bachelor,2006,Q4,Withdrawn,homesick,Sept intake,1,2545,651,303
+764,Devonna,MacMillan,Male,Indonesia,nus,arts,Degree,2007,Q3,Active,NA,Sept intake,1,1312,951,235
+765,Mallorie,Dionis,Male,Indonesia,smu,science,Degree,1998,Q4,Active,NA,March Intake,2,4427,1866,472
+766,Dinny,Tolliday,Male,Indonesia,nus,engineering,Bachelor,2014,Q2,Withdrawn,homesick,Sept intake,1,3988,1182,459
+767,Nert,Purshouse,Male,Indonesia,smu,engineering,Phd.,2003,Q3,Active,NA,Sept intake,1,2804,1269,242
+768,Annette,Beckenham,Male,Indonesia,nus,engineering,Phd.,1990,Q4,Active,NA,Sept intake,1,4713,1598,463
+769,Vivi,Bonas,Female,Indonesia,nus,science,Bachelor,2010,Q1,Active,NA,Sept intake,1,4386,955,464
+770,Harcourt,Hanmore,Female,Indonesia,smu,engineering,Phd.,2010,Q4,Withdrawn,Academically unprepared,June Intake,3,4063,776,465
+771,Carma,Sherr,Male,Indonesia,nus,engineering,Phd.,1995,Q4,Active,NA,Sept intake,1,1179,515,417
+772,Aurea,Schottli,Female,Indonesia,smu,arts,Phd.,2002,Q3,Withdrawn,Expensive,March Intake,2,4189,609,237
+773,Chance,Ioselevich,Male,Indonesia,smu,engineering,Phd.,2001,Q4,Withdrawn,Expensive,June Intake,3,4739,1254,214
+774,Andris,Foulcher,Female,Indonesia,ntu,engineering,Phd.,1991,Q4,Withdrawn,Academically unprepared,June Intake,3,2033,1849,266
+775,Norris,Cardozo,Female,Indonesia,smu,engineering,Bachelor,2015,Q3,Withdrawn,Academically unprepared,Sept intake,1,4020,1912,259
+776,Wain,Boag,Female,Indonesia,nus,science,Phd.,1990,Q3,Active,NA,Sept intake,1,3221,1521,327
+777,Free,Beades,Male,Indonesia,nus,engineering,Bachelor,1994,Q3,Active,NA,June Intake,3,3712,532,473
+778,Lanie,Villaret,Female,Indonesia,ntu,arts,Phd.,1990,Q4,Active,NA,Sept intake,1,1216,1841,241
+779,Molly,McReidy,Male,Indonesia,ntu,arts,Phd.,2003,Q4,Withdrawn,Academically unprepared,June Intake,3,1243,602,465
+780,Tabby,McCurlye,Female,Indonesia,smu,arts,Degree,2015,Q3,Withdrawn,homesick,Sept intake,1,4276,654,453
+781,Joeann,Johansson,Male,Indonesia,smu,engineering,Phd.,2013,Q3,Withdrawn,Expensive,March Intake,2,1072,714,254
+782,Derron,Ailmer,Male,Indonesia,smu,arts,Degree,1994,Q2,Withdrawn,Academically unprepared,March Intake,2,4965,1504,340
+783,Pierce,Domoni,Female,Indonesia,smu,science,Phd.,2016,Q4,Withdrawn,Academically unprepared,March Intake,2,2830,1114,424
+784,Marjorie,Bartleet,Male,Indonesia,smu,engineering,Phd.,2010,Q3,Active,NA,Sept intake,1,4292,1725,378
+785,Adrian,Dauney,Female,Indonesia,smu,engineering,Phd.,1992,Q4,Active,NA,March Intake,2,4960,790,298
+786,Marc,Borsnall,Male,Indonesia,nus,engineering,Bachelor,2010,Q4,Withdrawn,homesick,March Intake,2,4745,560,302
+787,Gaylor,Desport,Female,Indonesia,ntu,engineering,Phd.,2012,Q1,Withdrawn,Expensive,Sept intake,1,2770,1438,211
+788,Fergus,Michelet,Male,Indonesia,nus,science,Degree,2006,Q3,Active,NA,March Intake,2,2372,762,331
+789,Waldon,Milborn,Male,Indonesia,ntu,engineering,Phd.,2015,Q2,Withdrawn,Expensive,Sept intake,1,2118,513,433
+790,Jenifer,MacDearmont,Male,Indonesia,smu,science,Degree,2018,Q4,Withdrawn,homesick,Sept intake,1,3415,744,440
+791,Marion,Teape,Male,Indonesia,nus,engineering,Phd.,1991,Q4,Withdrawn,Expensive,Sept intake,1,3318,1500,359
+792,Dionysus,Skillern,Male,Indonesia,nus,arts,Bachelor,2018,Q4,Withdrawn,Academically unprepared,March Intake,2,3863,894,230
+793,Evan,Kleinmann,Male,Indonesia,smu,science,Phd.,2004,Q4,Active,NA,June Intake,3,2714,1766,392
+794,Karlis,Menichi,Male,Indonesia,nus,arts,Phd.,2009,Q1,Withdrawn,homesick,March Intake,2,4634,1450,462
+795,Farlee,Lillegard,Female,Indonesia,smu,engineering,Phd.,2001,Q4,Active,NA,March Intake,2,4998,798,325
+796,Estelle,Keysel,Female,Indonesia,nus,engineering,Degree,1994,Q4,Withdrawn,homesick,Sept intake,1,2038,1888,332
+797,Millicent,Winnister,Female,Indonesia,nus,engineering,Bachelor,2017,Q3,Active,NA,Sept intake,1,1196,1052,417
+798,Rhonda,Derle,Male,Indonesia,nus,engineering,Phd.,1995,Q4,Active,NA,June Intake,3,1766,1384,491
+799,Shoshana,Brumwell,Male,Indonesia,smu,science,Phd.,2014,Q4,Active,NA,Sept intake,1,1680,1933,272
+800,Angelico,Enderwick,Female,Indonesia,nus,science,Phd.,1997,Q4,Withdrawn,homesick,Sept intake,1,2574,1015,221
+801,Kellby,Janda,Female,Indonesia,nus,engineering,Phd.,2008,Q4,Active,NA,Sept intake,1,3232,1416,255
+802,Arturo,Van den Velde,Female,Indonesia,smu,engineering,Phd.,2015,Q2,Active,NA,Sept intake,1,4840,1535,278
+803,Fairlie,Rhubottom,Male,Indonesia,smu,engineering,Bachelor,2014,Q4,Active,NA,March Intake,2,1757,551,364
+804,Antonin,Singyard,Male,Indonesia,ntu,science,Phd.,2003,Q4,Active,NA,Sept intake,1,1904,1040,400
+805,Aigneis,Lenglet,Male,Indonesia,smu,science,Degree,2007,Q3,Active,NA,June Intake,3,2921,1666,400
+806,Patrizius,Spofford,Male,Indonesia,ntu,arts,Bachelor,2020,Q4,Withdrawn,Academically unprepared,March Intake,2,2080,1687,364
+807,Leigh,Fivey,Male,Indonesia,nus,engineering,Phd.,2009,Q4,Active,NA,Sept intake,1,3365,846,434
+808,Hershel,Randles,Male,Indonesia,nus,engineering,Bachelor,1992,Q2,Active,NA,Sept intake,1,2260,890,290
+809,Kelley,Quoit,Male,Indonesia,ntu,science,Degree,1991,Q4,Withdrawn,Academically unprepared,Sept intake,1,1001,1205,440
+810,Paulo,Iskow,Female,Indonesia,ntu,engineering,Degree,2005,Q4,Active,NA,Sept intake,1,4632,1796,241
+811,Augy,Citrine,Male,Indonesia,ntu,engineering,Bachelor,2008,Q3,Active,NA,March Intake,2,1387,872,479
+812,Fielding,Lopes,Male,Indonesia,smu,engineering,Degree,2002,Q1,Active,NA,March Intake,2,2473,1144,404
+813,Ardella,Blinde,Female,Indonesia,nus,engineering,Phd.,1990,Q4,Withdrawn,Expensive,Sept intake,1,2935,1982,370
+814,Netti,Scarasbrick,Male,Indonesia,smu,arts,Phd.,2014,Q4,Withdrawn,Expensive,Sept intake,1,3083,1272,385
+815,Hercule,MacGillavery,Male,Indonesia,nus,arts,Degree,2019,Q1,Active,NA,March Intake,2,1781,676,334
+816,Marcia,Mannie,Female,Indonesia,smu,engineering,Degree,2014,Q3,Withdrawn,homesick,March Intake,2,2211,598,475
+817,Axel,Kinkaid,Male,Indonesia,nus,engineering,Degree,2004,Q2,Withdrawn,Academically unprepared,Sept intake,1,2559,621,413
+818,Arel,Hawler,Female,Indonesia,nus,science,Phd.,1996,Q4,Withdrawn,Academically unprepared,Sept intake,1,2484,699,453
+819,Padriac,Arnaudet,Female,Indonesia,ntu,engineering,Bachelor,2009,Q4,Withdrawn,homesick,March Intake,2,2121,1824,252
+820,Nevile,Pick,Male,Indonesia,ntu,engineering,Bachelor,1993,Q4,Active,NA,Sept intake,1,3919,1254,344
+821,Farrel,Peregrine,Male,Indonesia,nus,engineering,Phd.,2015,Q4,Active,NA,June Intake,3,2560,1003,278
+822,Aluino,Kybird,Female,Indonesia,ntu,arts,Bachelor,2020,Q1,Withdrawn,homesick,Sept intake,1,1161,778,356
+823,Edythe,Charville,Male,Indonesia,smu,engineering,Degree,1990,Q4,Active,NA,Sept intake,1,3950,775,391
+824,Teodoro,Borley,Male,Indonesia,nus,engineering,Phd.,1995,Q4,Active,NA,Sept intake,1,2514,1581,432
+825,Gabriel,Brinkley,Female,Indonesia,smu,engineering,Bachelor,2016,Q4,Withdrawn,homesick,Sept intake,1,1895,1364,235
+826,Trumann,Alner,Male,Indonesia,smu,engineering,Phd.,2008,Q3,Active,NA,June Intake,3,3591,1585,439
+827,Winifield,Overton,Male,Indonesia,smu,engineering,Bachelor,2004,Q3,Active,NA,March Intake,2,3100,1488,465
+828,Raeann,Butt,Male,Indonesia,smu,arts,Phd.,2009,Q4,Withdrawn,Expensive,March Intake,2,1659,1900,325
+829,Nicolas,Sewall,Male,Indonesia,ntu,science,Degree,2006,Q2,Active,NA,June Intake,3,1345,543,357
+830,Roselia,Boyer,Female,Indonesia,smu,engineering,Phd.,2003,Q4,Withdrawn,Academically unprepared,Sept intake,1,1356,1847,247
+831,Sallyanne,Breagan,Male,Indonesia,nus,arts,Bachelor,2005,Q2,Withdrawn,Expensive,Sept intake,1,3781,1659,382
+832,Antonella,McLauchlin,Male,Indonesia,nus,science,Degree,2011,Q4,Active,NA,Sept intake,1,2817,1845,245
+833,Massimiliano,Faithorn,Male,Indonesia,ntu,science,Phd.,2016,Q4,Withdrawn,Expensive,March Intake,2,3874,1317,320
+834,Darryl,Bayles,Female,Indonesia,smu,engineering,Bachelor,2002,Q1,Withdrawn,Expensive,June Intake,3,4264,626,352
+835,Karry,Ebbles,Female,Indonesia,nus,engineering,Degree,2013,Q4,Active,NA,March Intake,2,3345,914,465
+836,Chic,Glenn,Female,Indonesia,ntu,arts,Phd.,2020,Q4,Active,NA,March Intake,2,2749,1672,361
+837,Lukas,Hammerich,Male,Indonesia,nus,engineering,Bachelor,2010,Q4,Active,NA,Sept intake,1,1437,710,489
+838,Dugald,Rainsdon,Male,Indonesia,smu,engineering,Bachelor,1993,Q2,Active,NA,Sept intake,1,1112,1851,446
+839,Wallache,Marsland,Male,Indonesia,nus,engineering,Phd.,2011,Q2,Active,NA,Sept intake,1,4983,948,434
+840,Cristian,Nelthropp,Male,Indonesia,ntu,science,Phd.,1992,Q2,Active,NA,Sept intake,1,2186,997,464
+841,Halley,Ion,Female,Indonesia,ntu,science,Degree,2014,Q2,Active,NA,Sept intake,1,2307,1010,406
+842,Rosmunda,Josofovitz,Male,Indonesia,smu,engineering,Degree,2012,Q1,Active,NA,March Intake,2,3019,1826,325
+843,Aridatha,Chazotte,Male,Indonesia,smu,engineering,Phd.,2013,Q4,Withdrawn,homesick,Sept intake,1,4748,1723,207
+844,Lexy,Boyse,Female,Indonesia,nus,engineering,Bachelor,2018,Q4,Withdrawn,Academically unprepared,June Intake,3,2287,1882,437
+845,Leisha,Ramage,Female,Indonesia,smu,engineering,Degree,2007,Q4,Withdrawn,Academically unprepared,Sept intake,1,4764,569,418
+846,Sharyl,Faust,Male,Indonesia,smu,science,Phd.,1991,Q4,Active,NA,March Intake,2,3694,1567,293
+847,Kata,Alred,Male,Indonesia,smu,science,Phd.,2020,Q3,Active,NA,Sept intake,1,4671,1239,487
+848,Norby,Prudence,Male,Indonesia,smu,engineering,Degree,2000,Q3,Withdrawn,Expensive,Sept intake,1,2942,1952,368
+849,Leonore,Volkes,Male,Indonesia,smu,science,Phd.,2013,Q4,Withdrawn,homesick,June Intake,3,4688,1636,399
+850,Mord,Battista,Female,Indonesia,ntu,arts,Degree,1992,Q3,Active,NA,March Intake,2,2154,1634,497
+851,Beale,Frenzl,Female,Indonesia,nus,arts,Bachelor,1994,Q3,Active,NA,June Intake,3,4481,1958,323
+852,Davina,O'Henecan,Male,Indonesia,smu,arts,Phd.,1991,Q4,Active,NA,March Intake,2,2867,1806,312
+853,Goldia,Wasson,Male,Indonesia,smu,engineering,Bachelor,1994,Q3,Active,NA,Sept intake,1,2719,744,499
+854,Gordan,Philipsohn,Female,Indonesia,nus,science,Phd.,2008,Q4,Active,NA,June Intake,3,4195,1894,459
+855,Yoshiko,Swithenby,Male,Indonesia,ntu,engineering,Bachelor,2016,Q2,Withdrawn,homesick,Sept intake,1,2725,1197,225
+856,Carlina,Kelloway,Female,Indonesia,ntu,science,Bachelor,2015,Q2,Withdrawn,homesick,Sept intake,1,4641,1066,251
+857,Pavia,Bouda,Male,Indonesia,ntu,engineering,Phd.,2015,Q4,Withdrawn,homesick,Sept intake,1,3981,1682,288
+858,Rourke,Perview,Female,Indonesia,smu,engineering,Phd.,2008,Q4,Active,NA,Sept intake,1,4873,1413,466
+859,Fleming,Prate,Male,Indonesia,smu,arts,Phd.,2015,Q4,Active,NA,March Intake,2,3050,1173,467
+860,Angelico,Maurice,Female,Indonesia,ntu,science,Bachelor,2019,Q1,Withdrawn,Academically unprepared,Sept intake,1,2082,839,396
+861,Torey,Suttell,Male,Indonesia,smu,science,Phd.,2005,Q4,Withdrawn,Expensive,June Intake,3,2781,1342,437
+862,Corette,Ferandez,Male,Indonesia,smu,engineering,Phd.,2018,Q4,Active,NA,Sept intake,1,2031,1382,292
+863,Giffy,Kobiera,Male,Indonesia,ntu,arts,Degree,2010,Q2,Active,NA,June Intake,3,1830,1132,284
+864,Sophey,Kinrade,Male,Indonesia,nus,arts,Phd.,2006,Q4,Active,NA,June Intake,3,3139,1445,242
+865,Charil,Illsley,Male,Indonesia,ntu,engineering,Bachelor,2002,Q1,Withdrawn,homesick,June Intake,3,2739,535,346
+866,Shannon,Reynard,Male,Indonesia,ntu,engineering,Phd.,2017,Q4,Active,NA,Sept intake,1,3670,1228,498
+867,Sabina,Dinsale,Male,Indonesia,nus,engineering,Phd.,2017,Q3,Active,NA,June Intake,3,3262,1459,394
+868,Connie,Moogan,Female,Indonesia,ntu,engineering,Phd.,2018,Q3,Withdrawn,Expensive,June Intake,3,2141,1062,490
+869,Alfonso,Brickell,Female,Indonesia,ntu,arts,Bachelor,2006,Q4,Withdrawn,homesick,March Intake,2,2833,550,269
+870,Nikolaos,Raulston,Male,Indonesia,smu,engineering,Bachelor,2013,Q3,Withdrawn,Academically unprepared,Sept intake,1,2266,1714,435
+871,Alika,Brach,Female,Indonesia,smu,engineering,Phd.,2013,Q4,Withdrawn,homesick,Sept intake,1,1742,1683,214
+872,Bianca,Buddell,Female,Indonesia,smu,engineering,Degree,1999,Q1,Withdrawn,Expensive,Sept intake,1,2108,1073,468
+873,Porter,Sahlstrom,Female,Indonesia,ntu,arts,Phd.,1998,Q4,Withdrawn,homesick,Sept intake,1,4660,1585,479
+874,Biddie,Deverille,Male,Indonesia,ntu,engineering,Phd.,1990,Q3,Withdrawn,homesick,Sept intake,1,3117,1194,250
+875,Myrwyn,Baldrick,Male,Indonesia,smu,arts,Bachelor,2019,Q3,Withdrawn,Expensive,June Intake,3,2220,1535,257
+876,Lonnard,Siddons,Female,Indonesia,ntu,engineering,Bachelor,1990,Q4,Active,NA,June Intake,3,1158,1179,461
+877,Peirce,Szwandt,Male,Indonesia,ntu,engineering,Phd.,2008,Q4,Withdrawn,homesick,June Intake,3,2305,1632,456
+878,Valida,Janiak,Female,Indonesia,ntu,arts,Phd.,2011,Q3,Active,NA,March Intake,2,1124,1568,259
+879,Peri,Lafont,Female,Indonesia,ntu,engineering,Phd.,2018,Q4,Withdrawn,homesick,March Intake,2,4424,1295,382
+880,Mignon,Pettiward,Female,Indonesia,smu,science,Degree,1998,Q2,Withdrawn,homesick,March Intake,2,2871,1226,489
+881,Randie,Caltun,Male,Indonesia,ntu,engineering,Phd.,1991,Q2,Active,NA,Sept intake,1,3616,1599,332
+882,Nellie,Piatkow,Female,Indonesia,smu,science,Phd.,1993,Q4,Withdrawn,homesick,Sept intake,1,1348,1717,353
+883,Maurise,MacLennan,Male,Indonesia,smu,engineering,Degree,2001,Q3,Active,NA,June Intake,3,2340,713,457
+884,Ame,Dakers,Female,Indonesia,ntu,engineering,Phd.,2003,Q4,Active,NA,June Intake,3,4409,1389,474
+885,Wake,Storah,Female,Indonesia,nus,engineering,Degree,2019,Q3,Withdrawn,homesick,Sept intake,1,3783,926,404
+886,Meg,Gotts,Female,Indonesia,nus,engineering,Bachelor,2018,Q3,Active,NA,June Intake,3,2717,1007,323
+887,Nicoline,McCoveney,Female,Indonesia,nus,science,Phd.,2012,Q4,Active,NA,March Intake,2,1792,1998,442
+888,Prissie,Vinker,Male,Indonesia,smu,engineering,Degree,2010,Q4,Withdrawn,Expensive,March Intake,2,3267,688,293
+889,Stillman,Avo,Female,Indonesia,smu,engineering,Bachelor,1995,Q4,Withdrawn,Expensive,Sept intake,1,1714,800,410
+890,Rudolph,Perigeaux,Female,Indonesia,smu,engineering,Phd.,1992,Q4,Active,NA,Sept intake,1,2780,1649,446
+891,Sallee,Bletso,Female,Indonesia,smu,engineering,Degree,2008,Q3,Active,NA,Sept intake,1,3002,1762,315
+892,Jerad,McKeurtan,Male,Indonesia,smu,arts,Phd.,2015,Q4,Withdrawn,homesick,Sept intake,1,1420,932,233
+893,Flori,Frankes,Male,Indonesia,smu,arts,Phd.,2019,Q2,Withdrawn,homesick,Sept intake,1,1071,1759,294
+894,Roseann,McLagan,Female,Indonesia,smu,engineering,Degree,2000,Q3,Active,NA,Sept intake,1,3487,1745,442
+895,Armand,Raven,Female,Indonesia,smu,science,Phd.,1997,Q4,Active,NA,June Intake,3,2767,929,246
+896,Willyt,Shaughnessy,Male,Indonesia,smu,science,Phd.,1995,Q4,Active,NA,Sept intake,1,4764,855,301
+897,Finley,Adamek,Male,Indonesia,smu,science,Bachelor,2002,Q4,Active,NA,Sept intake,1,4994,1453,209
+898,Giffard,Warfield,Female,Indonesia,smu,engineering,Phd.,1995,Q2,Withdrawn,Expensive,March Intake,2,4549,1356,404
+899,Vida,Wills,Female,Indonesia,smu,science,Phd.,2010,Q4,Withdrawn,homesick,Sept intake,1,2972,1207,210
+900,Gaylene,McCullough,Female,Indonesia,smu,engineering,Phd.,2020,Q2,Active,NA,June Intake,3,4665,1680,295
+901,Siffre,Budnik,Female,Indonesia,smu,science,Phd.,1990,Q3,Withdrawn,Expensive,June Intake,3,1954,601,333
+902,Estrellita,De la Feld,Male,Indonesia,smu,science,Phd.,2004,Q4,Active,NA,Sept intake,1,3269,782,490
+903,Joletta,Sayers,Female,Indonesia,smu,science,Bachelor,1996,Q3,Withdrawn,homesick,March Intake,2,1991,642,431
+904,Car,Aldrich,Female,Indonesia,smu,science,Bachelor,2008,Q2,Active,NA,March Intake,2,3267,1063,300
+905,Lydie,Thirtle,Female,Indonesia,smu,engineering,Bachelor,1999,Q3,Active,NA,March Intake,2,4871,1903,281
+906,Earvin,Punch,Male,Indonesia,smu,engineering,Bachelor,1998,Q3,Active,NA,Sept intake,1,3669,1145,209
+907,Kent,Gittens,Male,Indonesia,smu,science,Phd.,2002,Q2,Withdrawn,homesick,June Intake,3,1506,692,491
+908,Shannan,Iglesias,Female,Indonesia,smu,science,Bachelor,1990,Q4,Active,NA,Sept intake,1,2831,1207,425
+909,Eba,Gregr,Male,Indonesia,smu,science,Phd.,1992,Q4,Active,NA,June Intake,3,1899,1760,279
+910,Tiffy,Shinner,Female,Indonesia,smu,engineering,Phd.,1994,Q3,Active,NA,March Intake,2,4142,1957,363
+911,Max,Rimington,Male,Indonesia,smu,engineering,Bachelor,2014,Q2,Withdrawn,Academically unprepared,June Intake,3,1776,1903,455
+912,Bonnibelle,Sisselot,Male,Indonesia,smu,engineering,Phd.,2003,Q4,Active,NA,Sept intake,1,3742,1623,253
+913,Monique,Topley,Female,Indonesia,smu,arts,Phd.,2001,Q4,Withdrawn,Expensive,Sept intake,1,2864,1960,217
+914,Addie,Sidney,Female,Indonesia,smu,engineering,Phd.,2006,Q3,Active,NA,March Intake,2,2686,1696,349
+915,Corbett,Vedeneev,Female,Indonesia,smu,engineering,Degree,1994,Q4,Active,NA,Sept intake,1,2605,709,254
+916,Rudy,McAdam,Female,Indonesia,smu,engineering,Bachelor,2016,Q3,Active,NA,March Intake,2,1817,825,233
+917,Lucille,de Verson,Female,Indonesia,smu,engineering,Phd.,2007,Q3,Withdrawn,Expensive,Sept intake,1,2754,1832,323
+918,Salaidh,Edwick,Female,Indonesia,smu,engineering,Degree,2014,Q1,Active,NA,June Intake,3,2991,1315,412
+919,Garrott,Platfoot,Male,Indonesia,smu,engineering,Phd.,2020,Q4,Withdrawn,Academically unprepared,March Intake,2,2960,568,441
+920,Kris,Rozzell,Female,Indonesia,smu,engineering,Phd.,1991,Q4,Active,NA,June Intake,3,2224,810,496
+921,Sara-ann,Dalman,Male,Indonesia,smu,science,Bachelor,1992,Q4,Withdrawn,homesick,Sept intake,1,3688,1731,204
+922,Phillip,Loveridge,Female,Indonesia,smu,engineering,Bachelor,1998,Q4,Withdrawn,Academically unprepared,March Intake,2,1976,1844,335
+923,Eliot,Choppen,Male,Indonesia,smu,science,Phd.,2018,Q4,Withdrawn,Expensive,March Intake,2,1405,1359,352
+924,Erda,Smissen,Male,Indonesia,smu,science,Phd.,2003,Q4,Withdrawn,homesick,June Intake,3,3484,1969,316
+925,Kathryn,Grewes,Female,Indonesia,smu,engineering,Degree,2008,Q3,Active,NA,Sept intake,1,4297,1587,372
+926,Ingar,Idwal Evans,Male,Indonesia,smu,engineering,Bachelor,2020,Q4,Withdrawn,Academically unprepared,Sept intake,1,4083,568,223
+927,Rhodie,Allflatt,Male,Indonesia,smu,engineering,Degree,1990,Q1,Active,NA,March Intake,2,3945,740,499
+928,Irita,Orsi,Female,Indonesia,smu,science,Phd.,2014,Q4,Withdrawn,Expensive,Sept intake,1,4696,1119,286
+929,Dorri,Medmore,Male,Indonesia,smu,arts,Bachelor,2008,Q4,Withdrawn,homesick,Sept intake,1,4458,1054,285
+930,Giraldo,Nuss,Male,Indonesia,smu,engineering,Bachelor,1996,Q4,Withdrawn,homesick,Sept intake,1,4820,795,279
+931,Cortie,Scedall,Male,Indonesia,smu,engineering,Phd.,2009,Q3,Withdrawn,Academically unprepared,June Intake,3,3268,1036,233
+932,Nyssa,Volcker,Male,Indonesia,smu,science,Degree,1993,Q3,Active,NA,March Intake,2,3045,1503,500
+933,Georgette,Mulholland,Male,Indonesia,smu,arts,Bachelor,1992,Q4,Active,NA,Sept intake,1,4326,1460,272
+934,Sybila,Leake,Male,Indonesia,smu,engineering,Phd.,2019,Q3,Active,NA,Sept intake,1,2780,1037,497
+935,Kahaleel,Offell,Female,Indonesia,smu,engineering,Phd.,2006,Q3,Active,NA,June Intake,3,1292,1527,426
+936,Emma,Passingham,Male,Indonesia,smu,engineering,Phd.,2017,Q4,Active,NA,June Intake,3,4705,813,292
+937,Ben,Keig,Male,Indonesia,smu,engineering,Bachelor,2011,Q4,Withdrawn,Academically unprepared,Sept intake,1,2080,1608,358
+938,Tatiania,Lynnett,Female,Indonesia,smu,engineering,Phd.,1995,Q3,Withdrawn,homesick,Sept intake,1,4167,1298,466
+939,Kenton,Saur,Female,Indonesia,smu,arts,Degree,2014,Q3,Active,NA,Sept intake,1,2323,621,292
+940,Karlene,Schrader,Male,Indonesia,smu,engineering,Phd.,2001,Q4,Active,NA,Sept intake,1,3913,1665,260
+941,Obediah,Eberlein,Male,Indonesia,smu,engineering,Bachelor,2018,Q4,Withdrawn,homesick,June Intake,3,4674,1456,373
+942,Alair,Gurery,Female,Indonesia,smu,science,Bachelor,2004,Q4,Withdrawn,Academically unprepared,Sept intake,1,1620,900,362
+943,Ofilia,Karlsson,Female,Indonesia,smu,engineering,Phd.,2016,Q4,Withdrawn,Academically unprepared,Sept intake,1,2134,991,326
+944,Yardley,Sawkin,Female,Indonesia,smu,engineering,Phd.,2012,Q4,Withdrawn,homesick,Sept intake,1,2559,1606,326
+945,Genevra,Tapner,Female,Indonesia,smu,arts,Phd.,2012,Q1,Active,NA,Sept intake,1,2801,1886,226
+946,Korie,Aysh,Male,Indonesia,smu,engineering,Phd.,2010,Q4,Active,NA,Sept intake,1,1819,1114,468
+947,Kathleen,Pears,Male,Indonesia,smu,engineering,Phd.,2000,Q4,Withdrawn,Academically unprepared,Sept intake,1,4633,1208,500
+948,Roberto,Goskar,Male,Indonesia,smu,engineering,Phd.,2016,Q4,Active,NA,June Intake,3,1050,1357,269
+949,Skylar,Sampson,Male,Indonesia,smu,arts,Degree,2014,Q4,Withdrawn,homesick,Sept intake,1,2892,1325,353
+950,Cindee,Vizor,Male,Indonesia,smu,arts,Degree,1995,Q2,Withdrawn,Academically unprepared,June Intake,3,2675,1172,323
+951,Tonya,Newiss,Female,Indonesia,smu,engineering,Degree,2007,Q3,Active,NA,Sept intake,1,3709,1050,363
+952,Doug,Finnimore,Female,Indonesia,smu,engineering,Phd.,2010,Q4,Active,NA,June Intake,3,4682,1053,371
+953,Kristo,Gorgen,Male,Indonesia,smu,engineering,Phd.,2014,Q4,Withdrawn,Academically unprepared,Sept intake,1,1015,715,314
+954,Lethia,Tuma,Male,Indonesia,smu,engineering,Phd.,1997,Q4,Active,NA,March Intake,2,4215,1963,498
+955,Felix,Tullett,Female,Indonesia,smu,engineering,Phd.,2016,Q4,Withdrawn,Expensive,Sept intake,1,1202,772,294
+956,Jamey,Obal,Female,Indonesia,smu,arts,Degree,1990,Q2,Withdrawn,Expensive,Sept intake,1,4993,596,475
+957,Tricia,Billin,Male,Indonesia,smu,science,Phd.,2016,Q3,Active,NA,March Intake,2,2000,599,429
+958,Barrett,Borrell,Female,Indonesia,smu,engineering,Bachelor,2010,Q4,Withdrawn,Academically unprepared,March Intake,2,1960,1639,462
+959,Killian,Fairham,Male,Indonesia,smu,arts,Bachelor,2017,Q4,Withdrawn,homesick,Sept intake,1,4454,1009,378
+960,Natala,Quelch,Male,Indonesia,smu,engineering,Phd.,1997,Q3,Withdrawn,Expensive,March Intake,2,4431,1429,367
+961,Clarice,Woolford,Female,Indonesia,smu,engineering,Phd.,2011,Q1,Withdrawn,Academically unprepared,March Intake,2,4484,1790,201
+962,Harmony,Willoughey,Male,Indonesia,smu,science,Phd.,2000,Q2,Withdrawn,homesick,Sept intake,1,3516,1325,225
+963,Millie,Plaster,Female,Indonesia,smu,science,Phd.,1999,Q3,Active,NA,Sept intake,1,1112,638,462
+964,Freda,Parzizek,Male,Indonesia,smu,engineering,Bachelor,2013,Q1,Active,NA,Sept intake,1,2355,1744,364
+965,Christi,Puig,Male,Indonesia,smu,science,Degree,2012,Q3,Active,NA,Sept intake,1,2790,1786,433
+966,Alis,Paris,Male,Indonesia,smu,engineering,Degree,2019,Q4,Active,NA,March Intake,2,2075,856,223
+967,Vidovik,Laxe,Male,Indonesia,smu,engineering,Bachelor,2016,Q1,Active,NA,June Intake,3,4967,615,288
+968,Torrence,Checcucci,Male,Indonesia,smu,engineering,Bachelor,1993,Q4,Withdrawn,Expensive,March Intake,2,3452,1160,239
+969,Cheslie,Abilowitz,Female,Indonesia,smu,arts,Phd.,1999,Q4,Withdrawn,Academically unprepared,June Intake,3,4517,940,248
+970,Toni,Barenskie,Female,Indonesia,smu,engineering,Bachelor,2000,Q2,Active,NA,March Intake,2,2414,1381,290
+971,Kirbee,Hoston,Male,Indonesia,smu,engineering,Degree,2009,Q4,Active,NA,June Intake,3,2253,1340,268
+972,Jed,Pandey,Male,Indonesia,smu,arts,Bachelor,1995,Q3,Withdrawn,homesick,Sept intake,1,1031,1913,275
+973,Aila,Bennedsen,Male,Indonesia,smu,engineering,Bachelor,1999,Q4,Withdrawn,Academically unprepared,Sept intake,1,2994,1842,307
+974,Reginauld,Ludlamme,Female,Indonesia,smu,engineering,Degree,1997,Q1,Active,NA,Sept intake,1,4789,1527,487
+975,Gerald,Sprull,Female,Indonesia,smu,engineering,Phd.,1990,Q3,Withdrawn,Academically unprepared,Sept intake,1,3551,1267,460
+976,Becca,Cayford,Female,Indonesia,smu,engineering,Phd.,1999,Q3,Active,NA,March Intake,2,1816,1895,269
+977,Ossie,Jeannon,Male,Indonesia,smu,engineering,Bachelor,1992,Q4,Withdrawn,Academically unprepared,March Intake,2,3287,517,289
+978,Gothart,Cumberland,Female,Indonesia,smu,arts,Bachelor,2000,Q3,Active,NA,Sept intake,1,1698,573,469
+979,Hannah,Scates,Female,Indonesia,smu,science,Phd.,2007,Q4,Active,NA,Sept intake,1,4201,975,269
+980,Ginny,Bankhurst,Male,Indonesia,smu,engineering,Degree,1994,Q1,Active,NA,March Intake,2,3168,889,319
+981,Nola,Donwell,Female,Indonesia,smu,science,Bachelor,1990,Q4,Withdrawn,Academically unprepared,March Intake,2,2749,523,434
+982,Eva,Worledge,Male,Indonesia,smu,science,Degree,1990,Q1,Withdrawn,homesick,March Intake,2,4267,559,469
+983,Fanya,Sinkins,Male,Indonesia,smu,science,Phd.,1993,Q1,Active,NA,June Intake,3,4851,887,255
+984,Eduardo,Gladwish,Male,Indonesia,smu,engineering,Bachelor,2014,Q1,Withdrawn,homesick,Sept intake,1,4319,1097,359
+985,Lorrie,Shearsby,Female,Indonesia,smu,engineering,Phd.,1990,Q3,Withdrawn,homesick,March Intake,2,3228,1276,383
+986,Delphine,Gowler,Male,Indonesia,smu,engineering,Phd.,2008,Q3,Withdrawn,homesick,Sept intake,1,3540,1038,356
+987,Byran,Itzkowicz,Female,Indonesia,smu,arts,Degree,1998,Q3,Active,NA,June Intake,3,1865,1882,259
+988,Crawford,Bernollet,Female,Indonesia,smu,science,Degree,2016,Q4,Active,NA,Sept intake,1,3035,1219,314
+989,Jan,Goschalk,Female,Indonesia,smu,science,Bachelor,2003,Q2,Active,NA,March Intake,2,2361,647,292
+990,Judye,Ommundsen,Male,Indonesia,smu,arts,Phd.,1994,Q4,Active,NA,Sept intake,1,2837,1340,241
+991,Zonda,Pinson,Male,Indonesia,smu,engineering,Phd.,2015,Q4,Withdrawn,homesick,Sept intake,1,3746,686,343
+992,Philippe,Liggins,Male,Indonesia,smu,arts,Bachelor,2006,Q4,Withdrawn,homesick,March Intake,2,2209,898,341
+993,Desmund,Satch,Female,Indonesia,smu,engineering,Phd.,1999,Q2,Withdrawn,homesick,Sept intake,1,3113,1000,299
+994,Rodrigo,Capun,Male,Indonesia,smu,science,Phd.,2004,Q4,Active,NA,June Intake,3,4013,1386,267
+995,Cointon,Bassam,Female,Indonesia,smu,engineering,Phd.,2000,Q4,Withdrawn,Expensive,Sept intake,1,4869,540,485
+996,Margie,Ericsson,Female,Indonesia,smu,science,Phd.,2001,Q4,Withdrawn,Academically unprepared,June Intake,3,2256,636,376
+997,Guillema,Hintzer,Female,Indonesia,smu,arts,Bachelor,2017,Q4,Active,NA,Sept intake,1,2982,1083,495
+998,Christiano,Cordeau],Female,Indonesia,smu,engineering,Phd.,2017,Q4,Active,NA,Sept intake,1,2879,1592,281
+999,Agosto,Lefeuvre,Male,Indonesia,smu,engineering,Degree,1995,Q4,Active,NA,March Intake,2,2313,1335,252
+1000,Crawford,Gaydon,Female,Indonesia,smu,arts,Phd.,2001,Q1,Active,NA,March Intake,2,3031,1332,329
