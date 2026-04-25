@@ -11,7 +11,7 @@ The dashboard enables stakeholders to analyze historical patterns, identify key 
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Institute Planning Dashboard" width="900"/>
+  <img src="images/dashboard.gif" alt="Institute Planning Dashboard" width="900"/>
 </p>
 
 ---
